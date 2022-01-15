@@ -1,0 +1,12 @@
+fix bug about rotated image
+add saving loss(time) graph
+design PSNR
+design SSIM
+show metrics for results
+train with diffrent learning rates
+adam vs SGD
+
+
+try training on diffrent inputs (now rescaling is x10, let's try x4)
+try diffrent image bases (right now images are created based on 2k images, maybe base can be smaller)
+
