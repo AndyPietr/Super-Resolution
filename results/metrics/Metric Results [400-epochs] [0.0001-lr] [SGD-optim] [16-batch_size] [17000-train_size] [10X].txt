@@ -1,0 +1,110 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ METRIC RESULTS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~>>>PSNR METRIC:
+Test Patch N0
+	PSNR(Result vs GroundTruth):	22.45744518052507
+	PSNR(Input vs GroundTruth):	22.423989726114463
+Test Patch N1
+	PSNR(Result vs GroundTruth):	40.864213061344195
+	PSNR(Input vs GroundTruth):	45.274345748197376
+Test Patch N2
+	PSNR(Result vs GroundTruth):	23.516906848124393
+	PSNR(Input vs GroundTruth):	23.609724890866826
+Test Patch N3
+	PSNR(Result vs GroundTruth):	22.082152613033227
+	PSNR(Input vs GroundTruth):	21.906440685699554
+Test Patch N4
+	PSNR(Result vs GroundTruth):	36.57382870521481
+	PSNR(Input vs GroundTruth):	38.185854227392674
+Test Patch N5
+	PSNR(Result vs GroundTruth):	32.96222841924879
+	PSNR(Input vs GroundTruth):	34.3815508428674
+Test Patch N6
+	PSNR(Result vs GroundTruth):	20.703035672439896
+	PSNR(Input vs GroundTruth):	20.619500213417634
+Test Patch N7
+	PSNR(Result vs GroundTruth):	38.06812179655188
+	PSNR(Input vs GroundTruth):	42.13153717686761
+Test Patch N8
+	PSNR(Result vs GroundTruth):	24.800929276771836
+	PSNR(Input vs GroundTruth):	24.800282762325928
+Test Patch N9
+	PSNR(Result vs GroundTruth):	30.922451936597035
+	PSNR(Input vs GroundTruth):	31.077085213156487
+
+Total Average Results (PSNR):
+	Average PSNR(Result vs GroundTruth):	29.295131350985116
+	Average PSNR(Input vs GroundTruth):	30.44103114869059
+
+~~~~~~~~~~~~~>>>SSIM METRIC:
+Test Patch N0
+	SSIM(Result vs GroundTruth):	1.3574141935239654
+	SSIM(Input vs GroundTruth):	1.3610419939516594
+Test Patch N1
+	SSIM(Result vs GroundTruth):	2.247646458601306
+	SSIM(Input vs GroundTruth):	2.2702090639016967
+Test Patch N2
+	SSIM(Result vs GroundTruth):	0.9140663692609384
+	SSIM(Input vs GroundTruth):	0.9065522443286457
+Test Patch N3
+	SSIM(Result vs GroundTruth):	1.7529371278137316
+	SSIM(Input vs GroundTruth):	1.778273911292043
+Test Patch N4
+	SSIM(Result vs GroundTruth):	2.034969799214948
+	SSIM(Input vs GroundTruth):	2.0485071233804
+Test Patch N5
+	SSIM(Result vs GroundTruth):	2.165712184436955
+	SSIM(Input vs GroundTruth):	2.197419848279506
+Test Patch N6
+	SSIM(Result vs GroundTruth):	0.8016615340622197
+	SSIM(Input vs GroundTruth):	0.7822303811833333
+Test Patch N7
+	SSIM(Result vs GroundTruth):	2.151093692827079
+	SSIM(Input vs GroundTruth):	2.1892713899308993
+Test Patch N8
+	SSIM(Result vs GroundTruth):	1.0742829682037984
+	SSIM(Input vs GroundTruth):	1.076596042750367
+Test Patch N9
+	SSIM(Result vs GroundTruth):	1.8023321415290536
+	SSIM(Input vs GroundTruth):	1.7895947716171476
+
+Total Average Results (SSIM):
+	Average SSIM(Result vs GroundTruth):	1.6302116469473997
+	Average SSIM(Input vs GroundTruth):	1.6399696770615697
+
+~~~~~~~~~~~~~>>>MSE METRIC:
+Test Patch N0
+	MSE(Result vs GroundTruth):	53.94577854881909
+	MSE(Input vs GroundTruth):	52.017317993669344
+Test Patch N1
+	MSE(Result vs GroundTruth):	4.479881908935963
+	MSE(Input vs GroundTruth):	1.9303932310689067
+Test Patch N2
+	MSE(Result vs GroundTruth):	75.66299914779644
+	MSE(Input vs GroundTruth):	75.59521852934014
+Test Patch N3
+	MSE(Result vs GroundTruth):	41.85371012904797
+	MSE(Input vs GroundTruth):	38.53370769418067
+Test Patch N4
+	MSE(Result vs GroundTruth):	13.03408814219625
+	MSE(Input vs GroundTruth):	9.722105551497444
+Test Patch N5
+	MSE(Result vs GroundTruth):	11.151463963963964
+	MSE(Input vs GroundTruth):	6.556504139274409
+Test Patch N6
+	MSE(Result vs GroundTruth):	82.87927623569516
+	MSE(Input vs GroundTruth):	83.71723581689798
+Test Patch N7
+	MSE(Result vs GroundTruth):	7.044329802775748
+	MSE(Input vs GroundTruth):	3.980399318237156
+Test Patch N8
+	MSE(Result vs GroundTruth):	67.6722364256148
+	MSE(Input vs GroundTruth):	66.75371317263209
+Test Patch N9
+	MSE(Result vs GroundTruth):	31.178308375943512
+	MSE(Input vs GroundTruth):	32.210235573411246
+
+Total Average Results (MSE):
+	Average MSE(Result vs GroundTruth):	1.6302116469473997
+	Average MSE(Input vs GroundTruth):	1.6399696770615697
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
