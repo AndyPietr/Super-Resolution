@@ -1,0 +1,2720 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ METRIC RESULTS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~>>>PSNR METRIC:
+Test Patch N0
+	PSNR(Result vs GroundTruth):	24.26490992069857
+	PSNR(Input vs GroundTruth):	23.68856445357673
+Test Patch N1
+	PSNR(Result vs GroundTruth):	24.477097911583797
+	PSNR(Input vs GroundTruth):	24.720216516954846
+Test Patch N2
+	PSNR(Result vs GroundTruth):	27.033203221505335
+	PSNR(Input vs GroundTruth):	31.99417518310603
+Test Patch N3
+	PSNR(Result vs GroundTruth):	21.694460645605965
+	PSNR(Input vs GroundTruth):	21.94614177584185
+Test Patch N4
+	PSNR(Result vs GroundTruth):	18.052719864356916
+	PSNR(Input vs GroundTruth):	18.02529453508039
+Test Patch N5
+	PSNR(Result vs GroundTruth):	32.9837934374016
+	PSNR(Input vs GroundTruth):	33.0791785114749
+Test Patch N6
+	PSNR(Result vs GroundTruth):	24.986176394174613
+	PSNR(Input vs GroundTruth):	24.360371339676608
+Test Patch N7
+	PSNR(Result vs GroundTruth):	21.5645459720185
+	PSNR(Input vs GroundTruth):	22.012272585568503
+Test Patch N8
+	PSNR(Result vs GroundTruth):	27.86642398689547
+	PSNR(Input vs GroundTruth):	27.070767259923485
+Test Patch N9
+	PSNR(Result vs GroundTruth):	29.92496986941278
+	PSNR(Input vs GroundTruth):	29.3182988684691
+Test Patch N10
+	PSNR(Result vs GroundTruth):	24.1452842427698
+	PSNR(Input vs GroundTruth):	24.137019858435625
+Test Patch N11
+	PSNR(Result vs GroundTruth):	23.40074627425283
+	PSNR(Input vs GroundTruth):	23.15507273930922
+Test Patch N12
+	PSNR(Result vs GroundTruth):	28.54453220514499
+	PSNR(Input vs GroundTruth):	38.62030911646252
+Test Patch N13
+	PSNR(Result vs GroundTruth):	32.990246460102256
+	PSNR(Input vs GroundTruth):	32.52010265986299
+Test Patch N14
+	PSNR(Result vs GroundTruth):	32.36692849030279
+	PSNR(Input vs GroundTruth):	36.95817024274122
+Test Patch N15
+	PSNR(Result vs GroundTruth):	28.287385077712255
+	PSNR(Input vs GroundTruth):	52.12506649104643
+Test Patch N16
+	PSNR(Result vs GroundTruth):	21.529197973632957
+	PSNR(Input vs GroundTruth):	21.92183034121357
+Test Patch N17
+	PSNR(Result vs GroundTruth):	21.46874451000796
+	PSNR(Input vs GroundTruth):	21.725221789013126
+Test Patch N18
+	PSNR(Result vs GroundTruth):	19.675218382555975
+	PSNR(Input vs GroundTruth):	19.580218789643457
+Test Patch N19
+	PSNR(Result vs GroundTruth):	25.0261791157595
+	PSNR(Input vs GroundTruth):	25.253362645327265
+Test Patch N20
+	PSNR(Result vs GroundTruth):	25.889097219905196
+	PSNR(Input vs GroundTruth):	25.81746156149054
+Test Patch N21
+	PSNR(Result vs GroundTruth):	21.399810636671578
+	PSNR(Input vs GroundTruth):	22.313043929789465
+Test Patch N22
+	PSNR(Result vs GroundTruth):	25.214674463782508
+	PSNR(Input vs GroundTruth):	25.821821626618924
+Test Patch N23
+	PSNR(Result vs GroundTruth):	20.690335162580105
+	PSNR(Input vs GroundTruth):	20.313549205342945
+Test Patch N24
+	PSNR(Result vs GroundTruth):	19.615512167532422
+	PSNR(Input vs GroundTruth):	19.587705950123112
+Test Patch N25
+	PSNR(Result vs GroundTruth):	21.737919203334094
+	PSNR(Input vs GroundTruth):	21.34634018385423
+Test Patch N26
+	PSNR(Result vs GroundTruth):	18.424042483809146
+	PSNR(Input vs GroundTruth):	18.505940000964245
+Test Patch N27
+	PSNR(Result vs GroundTruth):	22.321185485102987
+	PSNR(Input vs GroundTruth):	21.8939220477385
+Test Patch N28
+	PSNR(Result vs GroundTruth):	26.578166795945585
+	PSNR(Input vs GroundTruth):	27.25889065281273
+Test Patch N29
+	PSNR(Result vs GroundTruth):	25.327178500509547
+	PSNR(Input vs GroundTruth):	24.44063409129209
+Test Patch N30
+	PSNR(Result vs GroundTruth):	20.679091931873707
+	PSNR(Input vs GroundTruth):	20.350851851178135
+Test Patch N31
+	PSNR(Result vs GroundTruth):	25.309217597661974
+	PSNR(Input vs GroundTruth):	26.982416426217707
+Test Patch N32
+	PSNR(Result vs GroundTruth):	22.999070956459605
+	PSNR(Input vs GroundTruth):	22.98522454296405
+Test Patch N33
+	PSNR(Result vs GroundTruth):	26.644188116231582
+	PSNR(Input vs GroundTruth):	27.809366741724215
+Test Patch N34
+	PSNR(Result vs GroundTruth):	24.72323314173423
+	PSNR(Input vs GroundTruth):	24.63529657969763
+Test Patch N35
+	PSNR(Result vs GroundTruth):	20.392848426103015
+	PSNR(Input vs GroundTruth):	20.544839142663555
+Test Patch N36
+	PSNR(Result vs GroundTruth):	26.945125850732943
+	PSNR(Input vs GroundTruth):	53.428303580830146
+Test Patch N37
+	PSNR(Result vs GroundTruth):	18.505637651390312
+	PSNR(Input vs GroundTruth):	18.53936392454765
+Test Patch N38
+	PSNR(Result vs GroundTruth):	21.491095461447554
+	PSNR(Input vs GroundTruth):	21.201781658376916
+Test Patch N39
+	PSNR(Result vs GroundTruth):	33.775854027007455
+	PSNR(Input vs GroundTruth):	36.85212517508191
+Test Patch N40
+	PSNR(Result vs GroundTruth):	21.466904806069856
+	PSNR(Input vs GroundTruth):	21.0992914467335
+Test Patch N41
+	PSNR(Result vs GroundTruth):	26.758265721904753
+	PSNR(Input vs GroundTruth):	30.323959766113138
+Test Patch N42
+	PSNR(Result vs GroundTruth):	27.975956753382285
+	PSNR(Input vs GroundTruth):	27.911867711133503
+Test Patch N43
+	PSNR(Result vs GroundTruth):	19.47597861548588
+	PSNR(Input vs GroundTruth):	19.09614368697418
+Test Patch N44
+	PSNR(Result vs GroundTruth):	20.483067818085942
+	PSNR(Input vs GroundTruth):	20.331070831382906
+Test Patch N45
+	PSNR(Result vs GroundTruth):	23.594115886060997
+	PSNR(Input vs GroundTruth):	23.770065621866884
+Test Patch N46
+	PSNR(Result vs GroundTruth):	26.25464553641639
+	PSNR(Input vs GroundTruth):	29.10878115520911
+Test Patch N47
+	PSNR(Result vs GroundTruth):	19.376285070533154
+	PSNR(Input vs GroundTruth):	19.25341984675822
+Test Patch N48
+	PSNR(Result vs GroundTruth):	20.883134175289815
+	PSNR(Input vs GroundTruth):	20.634873767228274
+Test Patch N49
+	PSNR(Result vs GroundTruth):	23.576779897909354
+	PSNR(Input vs GroundTruth):	23.442914341097676
+Test Patch N50
+	PSNR(Result vs GroundTruth):	23.15678951542877
+	PSNR(Input vs GroundTruth):	23.37591771336692
+Test Patch N51
+	PSNR(Result vs GroundTruth):	21.866541117709488
+	PSNR(Input vs GroundTruth):	21.537925433822135
+Test Patch N52
+	PSNR(Result vs GroundTruth):	22.818372076867167
+	PSNR(Input vs GroundTruth):	22.660405921438667
+Test Patch N53
+	PSNR(Result vs GroundTruth):	24.847449649792335
+	PSNR(Input vs GroundTruth):	24.969426693185515
+Test Patch N54
+	PSNR(Result vs GroundTruth):	25.526726948733042
+	PSNR(Input vs GroundTruth):	28.00883979848738
+Test Patch N55
+	PSNR(Result vs GroundTruth):	25.529152963337772
+	PSNR(Input vs GroundTruth):	26.003124416374632
+Test Patch N56
+	PSNR(Result vs GroundTruth):	36.37315379634522
+	PSNR(Input vs GroundTruth):	37.55759220905725
+Test Patch N57
+	PSNR(Result vs GroundTruth):	28.02784946950082
+	PSNR(Input vs GroundTruth):	27.82698427682332
+Test Patch N58
+	PSNR(Result vs GroundTruth):	24.42970177315873
+	PSNR(Input vs GroundTruth):	24.07918444807162
+Test Patch N59
+	PSNR(Result vs GroundTruth):	18.793336060124066
+	PSNR(Input vs GroundTruth):	18.48105266045575
+Test Patch N60
+	PSNR(Result vs GroundTruth):	21.084288540006845
+	PSNR(Input vs GroundTruth):	20.177061808298827
+Test Patch N61
+	PSNR(Result vs GroundTruth):	27.889647811960717
+	PSNR(Input vs GroundTruth):	52.361979303665734
+Test Patch N62
+	PSNR(Result vs GroundTruth):	25.1629366923979
+	PSNR(Input vs GroundTruth):	25.237099193705124
+Test Patch N63
+	PSNR(Result vs GroundTruth):	26.655657839014463
+	PSNR(Input vs GroundTruth):	54.57197619141812
+Test Patch N64
+	PSNR(Result vs GroundTruth):	25.51743097247813
+	PSNR(Input vs GroundTruth):	26.63586600151597
+Test Patch N65
+	PSNR(Result vs GroundTruth):	24.823633495008323
+	PSNR(Input vs GroundTruth):	24.979601370016443
+Test Patch N66
+	PSNR(Result vs GroundTruth):	23.125040978771825
+	PSNR(Input vs GroundTruth):	23.65861265632878
+Test Patch N67
+	PSNR(Result vs GroundTruth):	20.225165156552144
+	PSNR(Input vs GroundTruth):	19.735994118347953
+Test Patch N68
+	PSNR(Result vs GroundTruth):	23.82684555723378
+	PSNR(Input vs GroundTruth):	23.741408645329976
+Test Patch N69
+	PSNR(Result vs GroundTruth):	27.977139478047523
+	PSNR(Input vs GroundTruth):	51.60358247935203
+Test Patch N70
+	PSNR(Result vs GroundTruth):	30.029124066540867
+	PSNR(Input vs GroundTruth):	30.923941819162067
+Test Patch N71
+	PSNR(Result vs GroundTruth):	23.081183468112876
+	PSNR(Input vs GroundTruth):	23.532985104575182
+Test Patch N72
+	PSNR(Result vs GroundTruth):	21.917254454659954
+	PSNR(Input vs GroundTruth):	21.737446262420605
+Test Patch N73
+	PSNR(Result vs GroundTruth):	28.701062829510352
+	PSNR(Input vs GroundTruth):	41.689064644840556
+Test Patch N74
+	PSNR(Result vs GroundTruth):	26.35411774012387
+	PSNR(Input vs GroundTruth):	26.704988681534605
+Test Patch N75
+	PSNR(Result vs GroundTruth):	32.03114658322744
+	PSNR(Input vs GroundTruth):	32.34512894342008
+Test Patch N76
+	PSNR(Result vs GroundTruth):	25.16159652162553
+	PSNR(Input vs GroundTruth):	25.841101448083702
+Test Patch N77
+	PSNR(Result vs GroundTruth):	30.265512550856553
+	PSNR(Input vs GroundTruth):	32.60002341329372
+Test Patch N78
+	PSNR(Result vs GroundTruth):	31.6447260502337
+	PSNR(Input vs GroundTruth):	31.540367302849532
+Test Patch N79
+	PSNR(Result vs GroundTruth):	25.304405511689172
+	PSNR(Input vs GroundTruth):	25.92861743248694
+Test Patch N80
+	PSNR(Result vs GroundTruth):	22.73739305040738
+	PSNR(Input vs GroundTruth):	22.781255137062043
+Test Patch N81
+	PSNR(Result vs GroundTruth):	21.6987080129742
+	PSNR(Input vs GroundTruth):	22.313343531568563
+Test Patch N82
+	PSNR(Result vs GroundTruth):	21.675087090095552
+	PSNR(Input vs GroundTruth):	21.385444232634097
+Test Patch N83
+	PSNR(Result vs GroundTruth):	20.68614406828539
+	PSNR(Input vs GroundTruth):	21.082560984889724
+Test Patch N84
+	PSNR(Result vs GroundTruth):	26.571356626873044
+	PSNR(Input vs GroundTruth):	35.584490546980746
+Test Patch N85
+	PSNR(Result vs GroundTruth):	21.307705429052668
+	PSNR(Input vs GroundTruth):	21.260479814134463
+Test Patch N86
+	PSNR(Result vs GroundTruth):	31.131928517075217
+	PSNR(Input vs GroundTruth):	30.227555525392837
+Test Patch N87
+	PSNR(Result vs GroundTruth):	28.726569645187446
+	PSNR(Input vs GroundTruth):	30.4799727709915
+Test Patch N88
+	PSNR(Result vs GroundTruth):	29.174633733224653
+	PSNR(Input vs GroundTruth):	33.21726428598515
+Test Patch N89
+	PSNR(Result vs GroundTruth):	21.381221745386977
+	PSNR(Input vs GroundTruth):	21.19964546786793
+Test Patch N90
+	PSNR(Result vs GroundTruth):	26.419873986823514
+	PSNR(Input vs GroundTruth):	41.27513117598717
+Test Patch N91
+	PSNR(Result vs GroundTruth):	28.43083114232237
+	PSNR(Input vs GroundTruth):	37.217515527260915
+Test Patch N92
+	PSNR(Result vs GroundTruth):	31.992918152007633
+	PSNR(Input vs GroundTruth):	49.664154805951284
+Test Patch N93
+	PSNR(Result vs GroundTruth):	25.281166205500085
+	PSNR(Input vs GroundTruth):	26.382637246289402
+Test Patch N94
+	PSNR(Result vs GroundTruth):	21.159626067983332
+	PSNR(Input vs GroundTruth):	21.64551868004405
+Test Patch N95
+	PSNR(Result vs GroundTruth):	25.57898671882278
+	PSNR(Input vs GroundTruth):	25.776237287729042
+Test Patch N96
+	PSNR(Result vs GroundTruth):	20.910860044903682
+	PSNR(Input vs GroundTruth):	20.404620888658286
+Test Patch N97
+	PSNR(Result vs GroundTruth):	24.061578318547827
+	PSNR(Input vs GroundTruth):	26.54475993077044
+Test Patch N98
+	PSNR(Result vs GroundTruth):	34.83873543566796
+	PSNR(Input vs GroundTruth):	43.4975687700979
+Test Patch N99
+	PSNR(Result vs GroundTruth):	23.31429256898103
+	PSNR(Input vs GroundTruth):	24.055431710239603
+Test Patch N100
+	PSNR(Result vs GroundTruth):	23.8313653247205
+	PSNR(Input vs GroundTruth):	24.32942777682936
+Test Patch N101
+	PSNR(Result vs GroundTruth):	25.43672209481479
+	PSNR(Input vs GroundTruth):	25.25167354417377
+Test Patch N102
+	PSNR(Result vs GroundTruth):	38.13255236693948
+	PSNR(Input vs GroundTruth):	44.9163704613004
+Test Patch N103
+	PSNR(Result vs GroundTruth):	27.76721346918
+	PSNR(Input vs GroundTruth):	30.115637743842747
+Test Patch N104
+	PSNR(Result vs GroundTruth):	24.35660348034988
+	PSNR(Input vs GroundTruth):	25.4330981141409
+Test Patch N105
+	PSNR(Result vs GroundTruth):	19.482753705816588
+	PSNR(Input vs GroundTruth):	19.09514494755795
+Test Patch N106
+	PSNR(Result vs GroundTruth):	29.58353994214003
+	PSNR(Input vs GroundTruth):	32.70756889287814
+Test Patch N107
+	PSNR(Result vs GroundTruth):	30.77452565778817
+	PSNR(Input vs GroundTruth):	46.8435658578631
+Test Patch N108
+	PSNR(Result vs GroundTruth):	20.10793096964369
+	PSNR(Input vs GroundTruth):	19.8019885688579
+Test Patch N109
+	PSNR(Result vs GroundTruth):	22.33573254078699
+	PSNR(Input vs GroundTruth):	23.110517608716794
+Test Patch N110
+	PSNR(Result vs GroundTruth):	25.46686378618979
+	PSNR(Input vs GroundTruth):	25.560195599492793
+Test Patch N111
+	PSNR(Result vs GroundTruth):	23.558285215618497
+	PSNR(Input vs GroundTruth):	23.75993699712155
+Test Patch N112
+	PSNR(Result vs GroundTruth):	28.854781750948312
+	PSNR(Input vs GroundTruth):	31.324611351461105
+Test Patch N113
+	PSNR(Result vs GroundTruth):	26.74381965355383
+	PSNR(Input vs GroundTruth):	44.324950037783424
+Test Patch N114
+	PSNR(Result vs GroundTruth):	29.859689568856314
+	PSNR(Input vs GroundTruth):	54.116734548853614
+Test Patch N115
+	PSNR(Result vs GroundTruth):	26.21510349779352
+	PSNR(Input vs GroundTruth):	31.91095519932589
+Test Patch N116
+	PSNR(Result vs GroundTruth):	21.288287348786064
+	PSNR(Input vs GroundTruth):	21.04085273109158
+Test Patch N117
+	PSNR(Result vs GroundTruth):	25.821835765323293
+	PSNR(Input vs GroundTruth):	32.72873171077251
+Test Patch N118
+	PSNR(Result vs GroundTruth):	26.927413882063476
+	PSNR(Input vs GroundTruth):	28.38212879788566
+Test Patch N119
+	PSNR(Result vs GroundTruth):	26.927394428647062
+	PSNR(Input vs GroundTruth):	37.83189432351928
+Test Patch N120
+	PSNR(Result vs GroundTruth):	27.220270743871964
+	PSNR(Input vs GroundTruth):	49.65548716110344
+Test Patch N121
+	PSNR(Result vs GroundTruth):	26.2692323553093
+	PSNR(Input vs GroundTruth):	27.029927946418933
+Test Patch N122
+	PSNR(Result vs GroundTruth):	18.47832504801332
+	PSNR(Input vs GroundTruth):	18.280607941618378
+Test Patch N123
+	PSNR(Result vs GroundTruth):	22.298634109244198
+	PSNR(Input vs GroundTruth):	21.98660103131989
+Test Patch N124
+	PSNR(Result vs GroundTruth):	20.75533915376898
+	PSNR(Input vs GroundTruth):	20.776372640406898
+Test Patch N125
+	PSNR(Result vs GroundTruth):	24.26219928093332
+	PSNR(Input vs GroundTruth):	23.960683785594195
+Test Patch N126
+	PSNR(Result vs GroundTruth):	21.71855094703362
+	PSNR(Input vs GroundTruth):	22.158288219768117
+Test Patch N127
+	PSNR(Result vs GroundTruth):	28.684114410073715
+	PSNR(Input vs GroundTruth):	32.2028970163553
+Test Patch N128
+	PSNR(Result vs GroundTruth):	30.576641657424975
+	PSNR(Input vs GroundTruth):	37.305131155472424
+Test Patch N129
+	PSNR(Result vs GroundTruth):	23.09603861927098
+	PSNR(Input vs GroundTruth):	23.773971346055248
+Test Patch N130
+	PSNR(Result vs GroundTruth):	25.836968859457862
+	PSNR(Input vs GroundTruth):	29.027177262931815
+Test Patch N131
+	PSNR(Result vs GroundTruth):	22.716588302981403
+	PSNR(Input vs GroundTruth):	23.532320185710745
+Test Patch N132
+	PSNR(Result vs GroundTruth):	25.220824190509802
+	PSNR(Input vs GroundTruth):	24.81417233201764
+Test Patch N133
+	PSNR(Result vs GroundTruth):	27.077608788453247
+	PSNR(Input vs GroundTruth):	30.994696087962392
+Test Patch N134
+	PSNR(Result vs GroundTruth):	23.23776242066917
+	PSNR(Input vs GroundTruth):	23.627922339789833
+Test Patch N135
+	PSNR(Result vs GroundTruth):	32.0969864683638
+	PSNR(Input vs GroundTruth):	32.26681759169053
+Test Patch N136
+	PSNR(Result vs GroundTruth):	20.793506785528976
+	PSNR(Input vs GroundTruth):	20.513435787204735
+Test Patch N137
+	PSNR(Result vs GroundTruth):	28.5424331168428
+	PSNR(Input vs GroundTruth):	45.69376000240517
+Test Patch N138
+	PSNR(Result vs GroundTruth):	17.295921273658305
+	PSNR(Input vs GroundTruth):	17.15995054989721
+Test Patch N139
+	PSNR(Result vs GroundTruth):	20.84401454742708
+	PSNR(Input vs GroundTruth):	21.19946468145652
+Test Patch N140
+	PSNR(Result vs GroundTruth):	25.21194850410611
+	PSNR(Input vs GroundTruth):	25.36937615207878
+Test Patch N141
+	PSNR(Result vs GroundTruth):	24.462904916827853
+	PSNR(Input vs GroundTruth):	24.37907185313516
+Test Patch N142
+	PSNR(Result vs GroundTruth):	20.04169362577006
+	PSNR(Input vs GroundTruth):	19.90043248438485
+Test Patch N143
+	PSNR(Result vs GroundTruth):	32.39152405758595
+	PSNR(Input vs GroundTruth):	38.1138020004274
+Test Patch N144
+	PSNR(Result vs GroundTruth):	31.338810501090407
+	PSNR(Input vs GroundTruth):	52.78241269567795
+Test Patch N145
+	PSNR(Result vs GroundTruth):	29.746159456812393
+	PSNR(Input vs GroundTruth):	31.94772023453389
+Test Patch N146
+	PSNR(Result vs GroundTruth):	21.389384466959154
+	PSNR(Input vs GroundTruth):	21.020857863046714
+Test Patch N147
+	PSNR(Result vs GroundTruth):	22.057450038200514
+	PSNR(Input vs GroundTruth):	22.08584298127655
+Test Patch N148
+	PSNR(Result vs GroundTruth):	30.304878471108836
+	PSNR(Input vs GroundTruth):	43.47697509419491
+Test Patch N149
+	PSNR(Result vs GroundTruth):	39.71209238908861
+	PSNR(Input vs GroundTruth):	53.311470033379535
+Test Patch N150
+	PSNR(Result vs GroundTruth):	20.346409329612705
+	PSNR(Input vs GroundTruth):	20.200829728846116
+Test Patch N151
+	PSNR(Result vs GroundTruth):	28.093633850059287
+	PSNR(Input vs GroundTruth):	30.284805839938507
+Test Patch N152
+	PSNR(Result vs GroundTruth):	28.112092717338385
+	PSNR(Input vs GroundTruth):	29.3422642647803
+Test Patch N153
+	PSNR(Result vs GroundTruth):	19.488119042008776
+	PSNR(Input vs GroundTruth):	19.22775191261691
+Test Patch N154
+	PSNR(Result vs GroundTruth):	31.096363873078026
+	PSNR(Input vs GroundTruth):	31.32827736468522
+Test Patch N155
+	PSNR(Result vs GroundTruth):	25.35226546086929
+	PSNR(Input vs GroundTruth):	26.20137283446266
+Test Patch N156
+	PSNR(Result vs GroundTruth):	23.192395424398022
+	PSNR(Input vs GroundTruth):	23.112378486190753
+Test Patch N157
+	PSNR(Result vs GroundTruth):	25.09330264827628
+	PSNR(Input vs GroundTruth):	25.130444845805272
+Test Patch N158
+	PSNR(Result vs GroundTruth):	24.872088611303937
+	PSNR(Input vs GroundTruth):	26.01148395990601
+Test Patch N159
+	PSNR(Result vs GroundTruth):	19.99987240619031
+	PSNR(Input vs GroundTruth):	20.205464523172832
+Test Patch N160
+	PSNR(Result vs GroundTruth):	30.017824377290538
+	PSNR(Input vs GroundTruth):	29.593646262928893
+Test Patch N161
+	PSNR(Result vs GroundTruth):	22.002127499126747
+	PSNR(Input vs GroundTruth):	22.26216177049267
+Test Patch N162
+	PSNR(Result vs GroundTruth):	23.731479361461734
+	PSNR(Input vs GroundTruth):	23.050797509568085
+Test Patch N163
+	PSNR(Result vs GroundTruth):	24.308742022747264
+	PSNR(Input vs GroundTruth):	24.157691426633527
+Test Patch N164
+	PSNR(Result vs GroundTruth):	21.855150662165983
+	PSNR(Input vs GroundTruth):	22.245137138824134
+Test Patch N165
+	PSNR(Result vs GroundTruth):	24.009242538133122
+	PSNR(Input vs GroundTruth):	24.172067758524598
+Test Patch N166
+	PSNR(Result vs GroundTruth):	22.120203169346247
+	PSNR(Input vs GroundTruth):	22.011247445570213
+Test Patch N167
+	PSNR(Result vs GroundTruth):	25.74575539970808
+	PSNR(Input vs GroundTruth):	25.404894469509443
+Test Patch N168
+	PSNR(Result vs GroundTruth):	37.77712349438947
+	PSNR(Input vs GroundTruth):	39.68681788018176
+Test Patch N169
+	PSNR(Result vs GroundTruth):	22.319253228900614
+	PSNR(Input vs GroundTruth):	22.809043866109437
+Test Patch N170
+	PSNR(Result vs GroundTruth):	19.666627341870417
+	PSNR(Input vs GroundTruth):	19.71215679891785
+Test Patch N171
+	PSNR(Result vs GroundTruth):	20.82575482294732
+	PSNR(Input vs GroundTruth):	21.04672990147021
+Test Patch N172
+	PSNR(Result vs GroundTruth):	22.923662991530307
+	PSNR(Input vs GroundTruth):	22.819303026425164
+Test Patch N173
+	PSNR(Result vs GroundTruth):	23.628966705521886
+	PSNR(Input vs GroundTruth):	24.07634319288659
+Test Patch N174
+	PSNR(Result vs GroundTruth):	24.68972843607913
+	PSNR(Input vs GroundTruth):	25.177840020544203
+Test Patch N175
+	PSNR(Result vs GroundTruth):	22.01679589045242
+	PSNR(Input vs GroundTruth):	22.34435521974833
+Test Patch N176
+	PSNR(Result vs GroundTruth):	21.835211522199806
+	PSNR(Input vs GroundTruth):	22.05230605814013
+Test Patch N177
+	PSNR(Result vs GroundTruth):	21.9827410200619
+	PSNR(Input vs GroundTruth):	22.22050098158605
+Test Patch N178
+	PSNR(Result vs GroundTruth):	22.520442014231243
+	PSNR(Input vs GroundTruth):	22.973125044751303
+Test Patch N179
+	PSNR(Result vs GroundTruth):	23.84927611511702
+	PSNR(Input vs GroundTruth):	24.489483854880717
+Test Patch N180
+	PSNR(Result vs GroundTruth):	25.173261358712743
+	PSNR(Input vs GroundTruth):	26.142794415254343
+Test Patch N181
+	PSNR(Result vs GroundTruth):	31.7616499206174
+	PSNR(Input vs GroundTruth):	32.77548972844988
+Test Patch N182
+	PSNR(Result vs GroundTruth):	24.36656556205422
+	PSNR(Input vs GroundTruth):	24.81249325029596
+Test Patch N183
+	PSNR(Result vs GroundTruth):	24.941236916775754
+	PSNR(Input vs GroundTruth):	24.945316117488527
+Test Patch N184
+	PSNR(Result vs GroundTruth):	30.35370981540893
+	PSNR(Input vs GroundTruth):	29.82088972887349
+Test Patch N185
+	PSNR(Result vs GroundTruth):	27.18226714669722
+	PSNR(Input vs GroundTruth):	32.89959152070943
+Test Patch N186
+	PSNR(Result vs GroundTruth):	23.67025879404484
+	PSNR(Input vs GroundTruth):	23.369060951396726
+Test Patch N187
+	PSNR(Result vs GroundTruth):	19.088963524358704
+	PSNR(Input vs GroundTruth):	18.73461189746064
+Test Patch N188
+	PSNR(Result vs GroundTruth):	32.20724160100242
+	PSNR(Input vs GroundTruth):	52.634228344905935
+Test Patch N189
+	PSNR(Result vs GroundTruth):	24.45237304552407
+	PSNR(Input vs GroundTruth):	24.324593460298885
+Test Patch N190
+	PSNR(Result vs GroundTruth):	25.477317847893634
+	PSNR(Input vs GroundTruth):	25.165784409620553
+Test Patch N191
+	PSNR(Result vs GroundTruth):	20.158901381817827
+	PSNR(Input vs GroundTruth):	19.52419740820051
+Test Patch N192
+	PSNR(Result vs GroundTruth):	31.924973658542758
+	PSNR(Input vs GroundTruth):	32.825072564295816
+Test Patch N193
+	PSNR(Result vs GroundTruth):	23.880741574558634
+	PSNR(Input vs GroundTruth):	23.89819717886099
+Test Patch N194
+	PSNR(Result vs GroundTruth):	21.323838033852436
+	PSNR(Input vs GroundTruth):	21.876041916056607
+Test Patch N195
+	PSNR(Result vs GroundTruth):	27.039878477018963
+	PSNR(Input vs GroundTruth):	51.42495323616586
+Test Patch N196
+	PSNR(Result vs GroundTruth):	26.614389723960294
+	PSNR(Input vs GroundTruth):	26.5422935625828
+Test Patch N197
+	PSNR(Result vs GroundTruth):	25.519656605521913
+	PSNR(Input vs GroundTruth):	26.796351103658537
+Test Patch N198
+	PSNR(Result vs GroundTruth):	27.777138280317022
+	PSNR(Input vs GroundTruth):	30.37651935192018
+Test Patch N199
+	PSNR(Result vs GroundTruth):	21.871999487013213
+	PSNR(Input vs GroundTruth):	21.880112451589095
+Test Patch N200
+	PSNR(Result vs GroundTruth):	23.06325000107642
+	PSNR(Input vs GroundTruth):	23.160817546629357
+Test Patch N201
+	PSNR(Result vs GroundTruth):	23.63213489959419
+	PSNR(Input vs GroundTruth):	23.876059950253357
+Test Patch N202
+	PSNR(Result vs GroundTruth):	32.86606479351857
+	PSNR(Input vs GroundTruth):	32.81909151529482
+Test Patch N203
+	PSNR(Result vs GroundTruth):	31.836741506004014
+	PSNR(Input vs GroundTruth):	42.84602858696679
+Test Patch N204
+	PSNR(Result vs GroundTruth):	21.121020303124823
+	PSNR(Input vs GroundTruth):	20.907528334267017
+Test Patch N205
+	PSNR(Result vs GroundTruth):	22.561785401836175
+	PSNR(Input vs GroundTruth):	23.10672156889853
+Test Patch N206
+	PSNR(Result vs GroundTruth):	38.21960688776832
+	PSNR(Input vs GroundTruth):	52.31927048114205
+Test Patch N207
+	PSNR(Result vs GroundTruth):	25.79720351011744
+	PSNR(Input vs GroundTruth):	28.347419141093738
+Test Patch N208
+	PSNR(Result vs GroundTruth):	23.07448885449802
+	PSNR(Input vs GroundTruth):	23.195219851329753
+Test Patch N209
+	PSNR(Result vs GroundTruth):	23.59221839795105
+	PSNR(Input vs GroundTruth):	23.470644292527876
+Test Patch N210
+	PSNR(Result vs GroundTruth):	19.371793702153756
+	PSNR(Input vs GroundTruth):	18.806889423421403
+Test Patch N211
+	PSNR(Result vs GroundTruth):	26.621517048086144
+	PSNR(Input vs GroundTruth):	37.34959075253466
+Test Patch N212
+	PSNR(Result vs GroundTruth):	27.219033995812538
+	PSNR(Input vs GroundTruth):	29.80238972547051
+Test Patch N213
+	PSNR(Result vs GroundTruth):	26.15301511592842
+	PSNR(Input vs GroundTruth):	29.643447345571534
+Test Patch N214
+	PSNR(Result vs GroundTruth):	23.330820755769377
+	PSNR(Input vs GroundTruth):	23.15613384623289
+Test Patch N215
+	PSNR(Result vs GroundTruth):	26.25104289121774
+	PSNR(Input vs GroundTruth):	39.92141207682582
+Test Patch N216
+	PSNR(Result vs GroundTruth):	22.223323591235168
+	PSNR(Input vs GroundTruth):	22.06478535595633
+Test Patch N217
+	PSNR(Result vs GroundTruth):	24.785653485292766
+	PSNR(Input vs GroundTruth):	26.853830696780264
+Test Patch N218
+	PSNR(Result vs GroundTruth):	23.706200492158228
+	PSNR(Input vs GroundTruth):	24.219813593842375
+Test Patch N219
+	PSNR(Result vs GroundTruth):	34.41877029336187
+	PSNR(Input vs GroundTruth):	35.24333770587664
+Test Patch N220
+	PSNR(Result vs GroundTruth):	25.247123764070338
+	PSNR(Input vs GroundTruth):	25.554947595126226
+Test Patch N221
+	PSNR(Result vs GroundTruth):	30.157392756757528
+	PSNR(Input vs GroundTruth):	33.21022760022287
+Test Patch N222
+	PSNR(Result vs GroundTruth):	20.35351901185647
+	PSNR(Input vs GroundTruth):	20.399791176041347
+Test Patch N223
+	PSNR(Result vs GroundTruth):	26.947883314875682
+	PSNR(Input vs GroundTruth):	40.47038469612161
+Test Patch N224
+	PSNR(Result vs GroundTruth):	22.580569159594447
+	PSNR(Input vs GroundTruth):	23.17050213918602
+Test Patch N225
+	PSNR(Result vs GroundTruth):	30.676378915037038
+	PSNR(Input vs GroundTruth):	38.08605756603136
+Test Patch N226
+	PSNR(Result vs GroundTruth):	28.814166805826908
+	PSNR(Input vs GroundTruth):	38.73975222312519
+Test Patch N227
+	PSNR(Result vs GroundTruth):	26.380739327712366
+	PSNR(Input vs GroundTruth):	27.54908477612693
+Test Patch N228
+	PSNR(Result vs GroundTruth):	26.990934548243008
+	PSNR(Input vs GroundTruth):	27.67340675542947
+Test Patch N229
+	PSNR(Result vs GroundTruth):	27.220385203137457
+	PSNR(Input vs GroundTruth):	27.223936239183825
+Test Patch N230
+	PSNR(Result vs GroundTruth):	27.635692697098662
+	PSNR(Input vs GroundTruth):	27.108023993904172
+Test Patch N231
+	PSNR(Result vs GroundTruth):	24.108578900959664
+	PSNR(Input vs GroundTruth):	26.276367302951048
+Test Patch N232
+	PSNR(Result vs GroundTruth):	26.55075026420675
+	PSNR(Input vs GroundTruth):	25.78071019885677
+Test Patch N233
+	PSNR(Result vs GroundTruth):	30.023453185706373
+	PSNR(Input vs GroundTruth):	29.45036822879463
+Test Patch N234
+	PSNR(Result vs GroundTruth):	27.45775284335339
+	PSNR(Input vs GroundTruth):	32.01956138425034
+Test Patch N235
+	PSNR(Result vs GroundTruth):	23.25887075227942
+	PSNR(Input vs GroundTruth):	23.53800282015261
+Test Patch N236
+	PSNR(Result vs GroundTruth):	33.202939262743136
+	PSNR(Input vs GroundTruth):	35.119862082467044
+Test Patch N237
+	PSNR(Result vs GroundTruth):	24.882423197646304
+	PSNR(Input vs GroundTruth):	25.87639815748129
+Test Patch N238
+	PSNR(Result vs GroundTruth):	25.31182260055878
+	PSNR(Input vs GroundTruth):	26.324886733462453
+Test Patch N239
+	PSNR(Result vs GroundTruth):	24.060273156148057
+	PSNR(Input vs GroundTruth):	23.888188940368945
+Test Patch N240
+	PSNR(Result vs GroundTruth):	20.767609183269865
+	PSNR(Input vs GroundTruth):	20.979573250654706
+Test Patch N241
+	PSNR(Result vs GroundTruth):	31.05742046506121
+	PSNR(Input vs GroundTruth):	42.020704372486826
+Test Patch N242
+	PSNR(Result vs GroundTruth):	31.208245412326203
+	PSNR(Input vs GroundTruth):	31.0058518461118
+Test Patch N243
+	PSNR(Result vs GroundTruth):	30.61333094799027
+	PSNR(Input vs GroundTruth):	30.8451750402535
+Test Patch N244
+	PSNR(Result vs GroundTruth):	35.13795053009756
+	PSNR(Input vs GroundTruth):	42.045523518735244
+Test Patch N245
+	PSNR(Result vs GroundTruth):	31.024787699552743
+	PSNR(Input vs GroundTruth):	39.959736184103875
+Test Patch N246
+	PSNR(Result vs GroundTruth):	26.773077980773266
+	PSNR(Input vs GroundTruth):	28.3700342589867
+Test Patch N247
+	PSNR(Result vs GroundTruth):	29.06878080827761
+	PSNR(Input vs GroundTruth):	49.85076618041775
+Test Patch N248
+	PSNR(Result vs GroundTruth):	22.388748649257128
+	PSNR(Input vs GroundTruth):	22.14992281313595
+Test Patch N249
+	PSNR(Result vs GroundTruth):	22.38094475995883
+	PSNR(Input vs GroundTruth):	22.187660605261257
+Test Patch N250
+	PSNR(Result vs GroundTruth):	24.283894875188743
+	PSNR(Input vs GroundTruth):	24.88876822503844
+Test Patch N251
+	PSNR(Result vs GroundTruth):	23.826615137598516
+	PSNR(Input vs GroundTruth):	24.171345780158504
+Test Patch N252
+	PSNR(Result vs GroundTruth):	26.83550902538887
+	PSNR(Input vs GroundTruth):	28.36097948754591
+Test Patch N253
+	PSNR(Result vs GroundTruth):	29.98209309243089
+	PSNR(Input vs GroundTruth):	52.67468309227854
+Test Patch N254
+	PSNR(Result vs GroundTruth):	22.367064630106302
+	PSNR(Input vs GroundTruth):	22.122970167140252
+Test Patch N255
+	PSNR(Result vs GroundTruth):	22.017385039559162
+	PSNR(Input vs GroundTruth):	21.84819282379161
+Test Patch N256
+	PSNR(Result vs GroundTruth):	20.67359759082627
+	PSNR(Input vs GroundTruth):	20.174880371801077
+Test Patch N257
+	PSNR(Result vs GroundTruth):	26.249430424175966
+	PSNR(Input vs GroundTruth):	26.485419811795147
+Test Patch N258
+	PSNR(Result vs GroundTruth):	22.920169778518677
+	PSNR(Input vs GroundTruth):	23.349469594391998
+Test Patch N259
+	PSNR(Result vs GroundTruth):	27.63714562291753
+	PSNR(Input vs GroundTruth):	29.256195451890164
+Test Patch N260
+	PSNR(Result vs GroundTruth):	22.420893396132943
+	PSNR(Input vs GroundTruth):	22.663321825209763
+Test Patch N261
+	PSNR(Result vs GroundTruth):	31.488145607202355
+	PSNR(Input vs GroundTruth):	30.98191404408993
+Test Patch N262
+	PSNR(Result vs GroundTruth):	25.2271001750529
+	PSNR(Input vs GroundTruth):	24.41180763411751
+Test Patch N263
+	PSNR(Result vs GroundTruth):	23.873047581361824
+	PSNR(Input vs GroundTruth):	23.664462506925208
+Test Patch N264
+	PSNR(Result vs GroundTruth):	21.530639986723905
+	PSNR(Input vs GroundTruth):	21.652242393166272
+Test Patch N265
+	PSNR(Result vs GroundTruth):	24.16396528323269
+	PSNR(Input vs GroundTruth):	24.72632803575994
+Test Patch N266
+	PSNR(Result vs GroundTruth):	26.175210622501194
+	PSNR(Input vs GroundTruth):	26.508095028290498
+Test Patch N267
+	PSNR(Result vs GroundTruth):	22.044283531678627
+	PSNR(Input vs GroundTruth):	21.591944933263907
+Test Patch N268
+	PSNR(Result vs GroundTruth):	29.73639804670354
+	PSNR(Input vs GroundTruth):	29.700728284735053
+Test Patch N269
+	PSNR(Result vs GroundTruth):	19.589474555487488
+	PSNR(Input vs GroundTruth):	19.44736127564874
+Test Patch N270
+	PSNR(Result vs GroundTruth):	18.551307713307438
+	PSNR(Input vs GroundTruth):	18.331239037598625
+Test Patch N271
+	PSNR(Result vs GroundTruth):	22.25446454748002
+	PSNR(Input vs GroundTruth):	22.495961199917023
+Test Patch N272
+	PSNR(Result vs GroundTruth):	29.00762209856274
+	PSNR(Input vs GroundTruth):	50.75328426291889
+Test Patch N273
+	PSNR(Result vs GroundTruth):	25.23034397969014
+	PSNR(Input vs GroundTruth):	26.887825911557975
+Test Patch N274
+	PSNR(Result vs GroundTruth):	29.00629538229778
+	PSNR(Input vs GroundTruth):	33.85483972873698
+Test Patch N275
+	PSNR(Result vs GroundTruth):	30.650713933598812
+	PSNR(Input vs GroundTruth):	30.61283948580237
+Test Patch N276
+	PSNR(Result vs GroundTruth):	30.147826716349204
+	PSNR(Input vs GroundTruth):	36.98270456876568
+Test Patch N277
+	PSNR(Result vs GroundTruth):	30.486005053313164
+	PSNR(Input vs GroundTruth):	32.40455439509961
+Test Patch N278
+	PSNR(Result vs GroundTruth):	25.28054289741882
+	PSNR(Input vs GroundTruth):	26.217858564729557
+Test Patch N279
+	PSNR(Result vs GroundTruth):	26.837779677540546
+	PSNR(Input vs GroundTruth):	28.713375599574313
+Test Patch N280
+	PSNR(Result vs GroundTruth):	26.74547383274114
+	PSNR(Input vs GroundTruth):	26.625201346107094
+Test Patch N281
+	PSNR(Result vs GroundTruth):	31.27216765213
+	PSNR(Input vs GroundTruth):	40.105826943712444
+Test Patch N282
+	PSNR(Result vs GroundTruth):	28.304436936187987
+	PSNR(Input vs GroundTruth):	28.04184799811653
+Test Patch N283
+	PSNR(Result vs GroundTruth):	28.359804158495407
+	PSNR(Input vs GroundTruth):	28.175783708233677
+Test Patch N284
+	PSNR(Result vs GroundTruth):	25.510154648057053
+	PSNR(Input vs GroundTruth):	26.26520314934547
+Test Patch N285
+	PSNR(Result vs GroundTruth):	27.48876050351418
+	PSNR(Input vs GroundTruth):	40.39028007111077
+Test Patch N286
+	PSNR(Result vs GroundTruth):	25.64558622859584
+	PSNR(Input vs GroundTruth):	26.492390123070532
+Test Patch N287
+	PSNR(Result vs GroundTruth):	32.28611310978084
+	PSNR(Input vs GroundTruth):	31.58943121585599
+Test Patch N288
+	PSNR(Result vs GroundTruth):	27.28009883496563
+	PSNR(Input vs GroundTruth):	49.43361199189056
+Test Patch N289
+	PSNR(Result vs GroundTruth):	22.906838659019535
+	PSNR(Input vs GroundTruth):	23.360135400651476
+Test Patch N290
+	PSNR(Result vs GroundTruth):	22.24393105799807
+	PSNR(Input vs GroundTruth):	22.399467011912883
+Test Patch N291
+	PSNR(Result vs GroundTruth):	28.168415586467365
+	PSNR(Input vs GroundTruth):	30.208131318468077
+Test Patch N292
+	PSNR(Result vs GroundTruth):	31.31889252710582
+	PSNR(Input vs GroundTruth):	34.588519899778476
+Test Patch N293
+	PSNR(Result vs GroundTruth):	20.669783803216166
+	PSNR(Input vs GroundTruth):	20.40398219356501
+Test Patch N294
+	PSNR(Result vs GroundTruth):	28.010232764661147
+	PSNR(Input vs GroundTruth):	28.18609575588528
+Test Patch N295
+	PSNR(Result vs GroundTruth):	21.451119712151932
+	PSNR(Input vs GroundTruth):	21.35153593608136
+Test Patch N296
+	PSNR(Result vs GroundTruth):	29.2957296206703
+	PSNR(Input vs GroundTruth):	35.552755192492086
+Test Patch N297
+	PSNR(Result vs GroundTruth):	25.205400741983436
+	PSNR(Input vs GroundTruth):	26.70344453485847
+Test Patch N298
+	PSNR(Result vs GroundTruth):	25.456014586192772
+	PSNR(Input vs GroundTruth):	32.755419476629896
+Test Patch N299
+	PSNR(Result vs GroundTruth):	26.636876822819595
+	PSNR(Input vs GroundTruth):	26.449116454504143
+
+Total Average Results (PSNR):
+	Average PSNR(Result vs GroundTruth):	25.467690187514865
+	Average PSNR(Input vs GroundTruth):	28.17302790811374
+
+~~~~~~~~~~~~~>>>SSIM METRIC:
+Test Patch N0
+	SSIM(Result vs GroundTruth):	1.594934822179044
+	SSIM(Input vs GroundTruth):	1.5945473848332257
+Test Patch N1
+	SSIM(Result vs GroundTruth):	1.5675664670778175
+	SSIM(Input vs GroundTruth):	1.503178138383221
+Test Patch N2
+	SSIM(Result vs GroundTruth):	2.1045697472499603
+	SSIM(Input vs GroundTruth):	2.090349791956966
+Test Patch N3
+	SSIM(Result vs GroundTruth):	1.479256138043472
+	SSIM(Input vs GroundTruth):	1.4041268136610139
+Test Patch N4
+	SSIM(Result vs GroundTruth):	1.3709139985793453
+	SSIM(Input vs GroundTruth):	1.2492084471923208
+Test Patch N5
+	SSIM(Result vs GroundTruth):	1.917721236467226
+	SSIM(Input vs GroundTruth):	1.9269142157854673
+Test Patch N6
+	SSIM(Result vs GroundTruth):	1.9981109871859788
+	SSIM(Input vs GroundTruth):	1.9627051960376443
+Test Patch N7
+	SSIM(Result vs GroundTruth):	1.3996389720837583
+	SSIM(Input vs GroundTruth):	1.380251932930439
+Test Patch N8
+	SSIM(Result vs GroundTruth):	2.058683506984546
+	SSIM(Input vs GroundTruth):	2.0147997706868352
+Test Patch N9
+	SSIM(Result vs GroundTruth):	2.0016587404307966
+	SSIM(Input vs GroundTruth):	2.012483114977579
+Test Patch N10
+	SSIM(Result vs GroundTruth):	1.857057419105794
+	SSIM(Input vs GroundTruth):	1.838455069244056
+Test Patch N11
+	SSIM(Result vs GroundTruth):	1.7648369646921223
+	SSIM(Input vs GroundTruth):	1.6863616063689806
+Test Patch N12
+	SSIM(Result vs GroundTruth):	2.2569769450091877
+	SSIM(Input vs GroundTruth):	2.2867586272189944
+Test Patch N13
+	SSIM(Result vs GroundTruth):	1.9396224939688147
+	SSIM(Input vs GroundTruth):	1.9014240989498996
+Test Patch N14
+	SSIM(Result vs GroundTruth):	2.2684677002006293
+	SSIM(Input vs GroundTruth):	2.2780287492985605
+Test Patch N15
+	SSIM(Result vs GroundTruth):	2.293539814373791
+	SSIM(Input vs GroundTruth):	2.3207109316528913
+Test Patch N16
+	SSIM(Result vs GroundTruth):	1.573449208379805
+	SSIM(Input vs GroundTruth):	1.498616033408541
+Test Patch N17
+	SSIM(Result vs GroundTruth):	1.5287039402257727
+	SSIM(Input vs GroundTruth):	1.5046945887399112
+Test Patch N18
+	SSIM(Result vs GroundTruth):	1.4985273370859922
+	SSIM(Input vs GroundTruth):	1.3969076148787374
+Test Patch N19
+	SSIM(Result vs GroundTruth):	1.724063770401909
+	SSIM(Input vs GroundTruth):	1.6465527764759882
+Test Patch N20
+	SSIM(Result vs GroundTruth):	2.091653540563721
+	SSIM(Input vs GroundTruth):	2.03344323413596
+Test Patch N21
+	SSIM(Result vs GroundTruth):	1.9987780637810513
+	SSIM(Input vs GroundTruth):	1.9827255256024816
+Test Patch N22
+	SSIM(Result vs GroundTruth):	1.8174957609038427
+	SSIM(Input vs GroundTruth):	1.7853030091602506
+Test Patch N23
+	SSIM(Result vs GroundTruth):	1.7414505584733493
+	SSIM(Input vs GroundTruth):	1.6139343097410461
+Test Patch N24
+	SSIM(Result vs GroundTruth):	1.7807637284743256
+	SSIM(Input vs GroundTruth):	1.695337881250709
+Test Patch N25
+	SSIM(Result vs GroundTruth):	1.8448170601289322
+	SSIM(Input vs GroundTruth):	1.7702283040435975
+Test Patch N26
+	SSIM(Result vs GroundTruth):	0.9978324011485503
+	SSIM(Input vs GroundTruth):	0.8112781450427164
+Test Patch N27
+	SSIM(Result vs GroundTruth):	1.70021352728827
+	SSIM(Input vs GroundTruth):	1.6207238807275473
+Test Patch N28
+	SSIM(Result vs GroundTruth):	1.9328037467699084
+	SSIM(Input vs GroundTruth):	1.8826770501015822
+Test Patch N29
+	SSIM(Result vs GroundTruth):	2.0287005431174823
+	SSIM(Input vs GroundTruth):	1.95406597709878
+Test Patch N30
+	SSIM(Result vs GroundTruth):	1.7266263275380782
+	SSIM(Input vs GroundTruth):	1.6559756971184738
+Test Patch N31
+	SSIM(Result vs GroundTruth):	1.954238012607552
+	SSIM(Input vs GroundTruth):	1.9558477679069013
+Test Patch N32
+	SSIM(Result vs GroundTruth):	1.78965404547587
+	SSIM(Input vs GroundTruth):	1.739201185770625
+Test Patch N33
+	SSIM(Result vs GroundTruth):	1.7518231574825682
+	SSIM(Input vs GroundTruth):	1.7185709695643383
+Test Patch N34
+	SSIM(Result vs GroundTruth):	1.847140752895532
+	SSIM(Input vs GroundTruth):	1.968241954044785
+Test Patch N35
+	SSIM(Result vs GroundTruth):	1.6538946478278445
+	SSIM(Input vs GroundTruth):	1.5971364121255012
+Test Patch N36
+	SSIM(Result vs GroundTruth):	2.287681453298619
+	SSIM(Input vs GroundTruth):	2.3230455064540187
+Test Patch N37
+	SSIM(Result vs GroundTruth):	1.0927256989308483
+	SSIM(Input vs GroundTruth):	0.892330893566018
+Test Patch N38
+	SSIM(Result vs GroundTruth):	1.7292386419686698
+	SSIM(Input vs GroundTruth):	1.675965965388572
+Test Patch N39
+	SSIM(Result vs GroundTruth):	2.190463663933661
+	SSIM(Input vs GroundTruth):	2.191221994947292
+Test Patch N40
+	SSIM(Result vs GroundTruth):	1.9187909598571564
+	SSIM(Input vs GroundTruth):	1.8215763380617946
+Test Patch N41
+	SSIM(Result vs GroundTruth):	2.2307947446185294
+	SSIM(Input vs GroundTruth):	2.2438934046699703
+Test Patch N42
+	SSIM(Result vs GroundTruth):	1.7405282562307263
+	SSIM(Input vs GroundTruth):	1.6880163427452755
+Test Patch N43
+	SSIM(Result vs GroundTruth):	1.700160644388891
+	SSIM(Input vs GroundTruth):	1.596840339494578
+Test Patch N44
+	SSIM(Result vs GroundTruth):	1.5923427865646853
+	SSIM(Input vs GroundTruth):	1.4613007229657922
+Test Patch N45
+	SSIM(Result vs GroundTruth):	1.648039613533084
+	SSIM(Input vs GroundTruth):	1.6249913826364837
+Test Patch N46
+	SSIM(Result vs GroundTruth):	2.081088088751213
+	SSIM(Input vs GroundTruth):	2.0692321734475625
+Test Patch N47
+	SSIM(Result vs GroundTruth):	1.5485850493314857
+	SSIM(Input vs GroundTruth):	1.4429251345119138
+Test Patch N48
+	SSIM(Result vs GroundTruth):	1.6634269780509834
+	SSIM(Input vs GroundTruth):	1.5447588233682386
+Test Patch N49
+	SSIM(Result vs GroundTruth):	1.8459016288730836
+	SSIM(Input vs GroundTruth):	1.820485769877229
+Test Patch N50
+	SSIM(Result vs GroundTruth):	1.6134774764152218
+	SSIM(Input vs GroundTruth):	1.5367769582593604
+Test Patch N51
+	SSIM(Result vs GroundTruth):	1.830692113699108
+	SSIM(Input vs GroundTruth):	1.7403404529808841
+Test Patch N52
+	SSIM(Result vs GroundTruth):	1.6028174964127517
+	SSIM(Input vs GroundTruth):	1.5250097681268981
+Test Patch N53
+	SSIM(Result vs GroundTruth):	1.857933022903711
+	SSIM(Input vs GroundTruth):	1.86536506324665
+Test Patch N54
+	SSIM(Result vs GroundTruth):	2.010674609840009
+	SSIM(Input vs GroundTruth):	2.00572396361138
+Test Patch N55
+	SSIM(Result vs GroundTruth):	1.9233396526682762
+	SSIM(Input vs GroundTruth):	1.8628743809535917
+Test Patch N56
+	SSIM(Result vs GroundTruth):	1.648846821200869
+	SSIM(Input vs GroundTruth):	2.2592251485324613
+Test Patch N57
+	SSIM(Result vs GroundTruth):	1.770566365846926
+	SSIM(Input vs GroundTruth):	1.708321299295777
+Test Patch N58
+	SSIM(Result vs GroundTruth):	1.9003988795133024
+	SSIM(Input vs GroundTruth):	1.9275756101637618
+Test Patch N59
+	SSIM(Result vs GroundTruth):	1.7031289254040713
+	SSIM(Input vs GroundTruth):	1.6032815694139229
+Test Patch N60
+	SSIM(Result vs GroundTruth):	1.8117783753008871
+	SSIM(Input vs GroundTruth):	1.6703977700765915
+Test Patch N61
+	SSIM(Result vs GroundTruth):	2.288662333390203
+	SSIM(Input vs GroundTruth):	2.3203463454850657
+Test Patch N62
+	SSIM(Result vs GroundTruth):	1.916024274608976
+	SSIM(Input vs GroundTruth):	1.8961248276507112
+Test Patch N63
+	SSIM(Result vs GroundTruth):	2.2878690167643243
+	SSIM(Input vs GroundTruth):	2.324815093304469
+Test Patch N64
+	SSIM(Result vs GroundTruth):	1.8513067003060144
+	SSIM(Input vs GroundTruth):	1.7543532467320682
+Test Patch N65
+	SSIM(Result vs GroundTruth):	1.7338859277162966
+	SSIM(Input vs GroundTruth):	1.8468597724912919
+Test Patch N66
+	SSIM(Result vs GroundTruth):	1.7409170111472254
+	SSIM(Input vs GroundTruth):	1.6679616751657282
+Test Patch N67
+	SSIM(Result vs GroundTruth):	1.7668111498761898
+	SSIM(Input vs GroundTruth):	1.700452945293351
+Test Patch N68
+	SSIM(Result vs GroundTruth):	1.6849135871355827
+	SSIM(Input vs GroundTruth):	1.574227925636306
+Test Patch N69
+	SSIM(Result vs GroundTruth):	2.2888603451374703
+	SSIM(Input vs GroundTruth):	2.3181612188766465
+Test Patch N70
+	SSIM(Result vs GroundTruth):	2.05784863604081
+	SSIM(Input vs GroundTruth):	2.0387909218216156
+Test Patch N71
+	SSIM(Result vs GroundTruth):	1.8364170783538014
+	SSIM(Input vs GroundTruth):	1.7713921645558979
+Test Patch N72
+	SSIM(Result vs GroundTruth):	1.8280895762895495
+	SSIM(Input vs GroundTruth):	1.7430409413823122
+Test Patch N73
+	SSIM(Result vs GroundTruth):	2.257336832018179
+	SSIM(Input vs GroundTruth):	2.288592817973825
+Test Patch N74
+	SSIM(Result vs GroundTruth):	2.0825096972962993
+	SSIM(Input vs GroundTruth):	2.038328930826848
+Test Patch N75
+	SSIM(Result vs GroundTruth):	1.6253493218557182
+	SSIM(Input vs GroundTruth):	1.973018607156628
+Test Patch N76
+	SSIM(Result vs GroundTruth):	1.7226374218203866
+	SSIM(Input vs GroundTruth):	1.681829753444181
+Test Patch N77
+	SSIM(Result vs GroundTruth):	2.0860335947690043
+	SSIM(Input vs GroundTruth):	2.0732255560016797
+Test Patch N78
+	SSIM(Result vs GroundTruth):	2.2693075282960558
+	SSIM(Input vs GroundTruth):	2.2719466497721625
+Test Patch N79
+	SSIM(Result vs GroundTruth):	1.8641693258224568
+	SSIM(Input vs GroundTruth):	1.793634940786843
+Test Patch N80
+	SSIM(Result vs GroundTruth):	1.8352529362703125
+	SSIM(Input vs GroundTruth):	1.7532410900668027
+Test Patch N81
+	SSIM(Result vs GroundTruth):	1.6468521835557333
+	SSIM(Input vs GroundTruth):	1.585735786515563
+Test Patch N82
+	SSIM(Result vs GroundTruth):	1.7293606348112447
+	SSIM(Input vs GroundTruth):	1.6510055938572001
+Test Patch N83
+	SSIM(Result vs GroundTruth):	1.8023091159533295
+	SSIM(Input vs GroundTruth):	1.7983349226803773
+Test Patch N84
+	SSIM(Result vs GroundTruth):	2.2648327455091986
+	SSIM(Input vs GroundTruth):	2.294885202278652
+Test Patch N85
+	SSIM(Result vs GroundTruth):	1.783026711564975
+	SSIM(Input vs GroundTruth):	1.7025483105560586
+Test Patch N86
+	SSIM(Result vs GroundTruth):	2.1359044188356444
+	SSIM(Input vs GroundTruth):	2.1010164847127952
+Test Patch N87
+	SSIM(Result vs GroundTruth):	2.2030471465347015
+	SSIM(Input vs GroundTruth):	2.2644499112006073
+Test Patch N88
+	SSIM(Result vs GroundTruth):	2.2350803061774323
+	SSIM(Input vs GroundTruth):	2.2309682447627472
+Test Patch N89
+	SSIM(Result vs GroundTruth):	1.7612348271102123
+	SSIM(Input vs GroundTruth):	1.6966922004480756
+Test Patch N90
+	SSIM(Result vs GroundTruth):	2.2506006122319797
+	SSIM(Input vs GroundTruth):	2.2842264161530648
+Test Patch N91
+	SSIM(Result vs GroundTruth):	2.2386907185172262
+	SSIM(Input vs GroundTruth):	2.255388445128166
+Test Patch N92
+	SSIM(Result vs GroundTruth):	2.2971988685609865
+	SSIM(Input vs GroundTruth):	2.3109708861463525
+Test Patch N93
+	SSIM(Result vs GroundTruth):	1.979671828129543
+	SSIM(Input vs GroundTruth):	1.9137192593289856
+Test Patch N94
+	SSIM(Result vs GroundTruth):	1.5541038065026305
+	SSIM(Input vs GroundTruth):	1.6368080643088252
+Test Patch N95
+	SSIM(Result vs GroundTruth):	1.6139666840730496
+	SSIM(Input vs GroundTruth):	1.5342395071093549
+Test Patch N96
+	SSIM(Result vs GroundTruth):	1.8848755572718334
+	SSIM(Input vs GroundTruth):	1.7951937690879172
+Test Patch N97
+	SSIM(Result vs GroundTruth):	2.010755858879609
+	SSIM(Input vs GroundTruth):	1.993217076157261
+Test Patch N98
+	SSIM(Result vs GroundTruth):	2.276803937115065
+	SSIM(Input vs GroundTruth):	2.293293840247645
+Test Patch N99
+	SSIM(Result vs GroundTruth):	1.861338634417507
+	SSIM(Input vs GroundTruth):	1.8284379815217895
+Test Patch N100
+	SSIM(Result vs GroundTruth):	1.903029153285739
+	SSIM(Input vs GroundTruth):	1.876485715959347
+Test Patch N101
+	SSIM(Result vs GroundTruth):	1.90644304525631
+	SSIM(Input vs GroundTruth):	1.8429143498478775
+Test Patch N102
+	SSIM(Result vs GroundTruth):	2.228165817343144
+	SSIM(Input vs GroundTruth):	2.284980674050064
+Test Patch N103
+	SSIM(Result vs GroundTruth):	2.2168761576064786
+	SSIM(Input vs GroundTruth):	2.220582034308282
+Test Patch N104
+	SSIM(Result vs GroundTruth):	1.875907480756819
+	SSIM(Input vs GroundTruth):	1.8689811392468176
+Test Patch N105
+	SSIM(Result vs GroundTruth):	1.778916320915409
+	SSIM(Input vs GroundTruth):	1.6682057789088338
+Test Patch N106
+	SSIM(Result vs GroundTruth):	2.249063856380301
+	SSIM(Input vs GroundTruth):	2.277530329199149
+Test Patch N107
+	SSIM(Result vs GroundTruth):	2.271512258612394
+	SSIM(Input vs GroundTruth):	2.302174478633457
+Test Patch N108
+	SSIM(Result vs GroundTruth):	1.6973125438521528
+	SSIM(Input vs GroundTruth):	1.6107019656966974
+Test Patch N109
+	SSIM(Result vs GroundTruth):	1.6045556493676059
+	SSIM(Input vs GroundTruth):	1.6687985148307345
+Test Patch N110
+	SSIM(Result vs GroundTruth):	1.5751850581413154
+	SSIM(Input vs GroundTruth):	1.4997762714241478
+Test Patch N111
+	SSIM(Result vs GroundTruth):	1.6988918975945597
+	SSIM(Input vs GroundTruth):	1.634291956009545
+Test Patch N112
+	SSIM(Result vs GroundTruth):	1.9938034967293183
+	SSIM(Input vs GroundTruth):	1.969477649669108
+Test Patch N113
+	SSIM(Result vs GroundTruth):	2.2629108567778755
+	SSIM(Input vs GroundTruth):	2.2925952360203348
+Test Patch N114
+	SSIM(Result vs GroundTruth):	2.2988206379045533
+	SSIM(Input vs GroundTruth):	2.324776044883482
+Test Patch N115
+	SSIM(Result vs GroundTruth):	2.2057067126890497
+	SSIM(Input vs GroundTruth):	2.2065082299909022
+Test Patch N116
+	SSIM(Result vs GroundTruth):	1.6968910793362122
+	SSIM(Input vs GroundTruth):	1.5997826144698968
+Test Patch N117
+	SSIM(Result vs GroundTruth):	2.177714967662487
+	SSIM(Input vs GroundTruth):	2.1969896674991465
+Test Patch N118
+	SSIM(Result vs GroundTruth):	2.1071915574653786
+	SSIM(Input vs GroundTruth):	2.0913655363887553
+Test Patch N119
+	SSIM(Result vs GroundTruth):	2.2263562628610414
+	SSIM(Input vs GroundTruth):	2.2447365120061558
+Test Patch N120
+	SSIM(Result vs GroundTruth):	2.275593861331421
+	SSIM(Input vs GroundTruth):	2.308361692745699
+Test Patch N121
+	SSIM(Result vs GroundTruth):	1.9341327605717242
+	SSIM(Input vs GroundTruth):	1.8902952185134299
+Test Patch N122
+	SSIM(Result vs GroundTruth):	1.452797726531259
+	SSIM(Input vs GroundTruth):	1.2844686162660761
+Test Patch N123
+	SSIM(Result vs GroundTruth):	1.8931260375107604
+	SSIM(Input vs GroundTruth):	1.8217833786932627
+Test Patch N124
+	SSIM(Result vs GroundTruth):	1.4102392474290895
+	SSIM(Input vs GroundTruth):	1.3872600430782631
+Test Patch N125
+	SSIM(Result vs GroundTruth):	1.9229469410682112
+	SSIM(Input vs GroundTruth):	1.8378061730775481
+Test Patch N126
+	SSIM(Result vs GroundTruth):	1.2776911575413767
+	SSIM(Input vs GroundTruth):	1.2137903767236367
+Test Patch N127
+	SSIM(Result vs GroundTruth):	2.1762177875774023
+	SSIM(Input vs GroundTruth):	2.190768019470299
+Test Patch N128
+	SSIM(Result vs GroundTruth):	2.1959943898692673
+	SSIM(Input vs GroundTruth):	2.20145808612498
+Test Patch N129
+	SSIM(Result vs GroundTruth):	1.614471584104411
+	SSIM(Input vs GroundTruth):	1.5447815833800438
+Test Patch N130
+	SSIM(Result vs GroundTruth):	2.106558723706396
+	SSIM(Input vs GroundTruth):	2.0817520988376406
+Test Patch N131
+	SSIM(Result vs GroundTruth):	1.9515407561488733
+	SSIM(Input vs GroundTruth):	1.913741982819317
+Test Patch N132
+	SSIM(Result vs GroundTruth):	1.9006695683478434
+	SSIM(Input vs GroundTruth):	1.8435593356844833
+Test Patch N133
+	SSIM(Result vs GroundTruth):	2.203391300560831
+	SSIM(Input vs GroundTruth):	2.2017987281044156
+Test Patch N134
+	SSIM(Result vs GroundTruth):	1.8803213809363488
+	SSIM(Input vs GroundTruth):	1.8235976854041092
+Test Patch N135
+	SSIM(Result vs GroundTruth):	1.8334725085598342
+	SSIM(Input vs GroundTruth):	1.8718203438348464
+Test Patch N136
+	SSIM(Result vs GroundTruth):	1.6333588244324195
+	SSIM(Input vs GroundTruth):	1.5581936460148627
+Test Patch N137
+	SSIM(Result vs GroundTruth):	2.2689662712714482
+	SSIM(Input vs GroundTruth):	2.286548696042277
+Test Patch N138
+	SSIM(Result vs GroundTruth):	1.1581074994847635
+	SSIM(Input vs GroundTruth):	0.9503818860170139
+Test Patch N139
+	SSIM(Result vs GroundTruth):	1.6372188764602447
+	SSIM(Input vs GroundTruth):	1.554694322819087
+Test Patch N140
+	SSIM(Result vs GroundTruth):	1.734908500511949
+	SSIM(Input vs GroundTruth):	1.6518409916562575
+Test Patch N141
+	SSIM(Result vs GroundTruth):	1.8065597758725982
+	SSIM(Input vs GroundTruth):	1.7380669142013627
+Test Patch N142
+	SSIM(Result vs GroundTruth):	1.4733415350557522
+	SSIM(Input vs GroundTruth):	1.3683460132601466
+Test Patch N143
+	SSIM(Result vs GroundTruth):	2.2519643091839314
+	SSIM(Input vs GroundTruth):	2.288023493223159
+Test Patch N144
+	SSIM(Result vs GroundTruth):	2.2988465042410873
+	SSIM(Input vs GroundTruth):	2.321906321586852
+Test Patch N145
+	SSIM(Result vs GroundTruth):	2.0819358599303053
+	SSIM(Input vs GroundTruth):	2.0479851558907978
+Test Patch N146
+	SSIM(Result vs GroundTruth):	1.6992729894867746
+	SSIM(Input vs GroundTruth):	1.5750944585436244
+Test Patch N147
+	SSIM(Result vs GroundTruth):	1.9004902990207406
+	SSIM(Input vs GroundTruth):	1.8591758899538962
+Test Patch N148
+	SSIM(Result vs GroundTruth):	2.2694103450290193
+	SSIM(Input vs GroundTruth):	2.2817909786079285
+Test Patch N149
+	SSIM(Result vs GroundTruth):	2.309256590867918
+	SSIM(Input vs GroundTruth):	2.322902801235787
+Test Patch N150
+	SSIM(Result vs GroundTruth):	1.554396221734125
+	SSIM(Input vs GroundTruth):	1.44350711185403
+Test Patch N151
+	SSIM(Result vs GroundTruth):	2.144330538896858
+	SSIM(Input vs GroundTruth):	2.154168636783815
+Test Patch N152
+	SSIM(Result vs GroundTruth):	2.1157524955508658
+	SSIM(Input vs GroundTruth):	2.081698364310675
+Test Patch N153
+	SSIM(Result vs GroundTruth):	1.6599653129177274
+	SSIM(Input vs GroundTruth):	1.551717384986956
+Test Patch N154
+	SSIM(Result vs GroundTruth):	1.8633043166305758
+	SSIM(Input vs GroundTruth):	1.9115956862371057
+Test Patch N155
+	SSIM(Result vs GroundTruth):	2.0475138414739242
+	SSIM(Input vs GroundTruth):	2.0214144678579307
+Test Patch N156
+	SSIM(Result vs GroundTruth):	1.7304580786849526
+	SSIM(Input vs GroundTruth):	1.6688283089092737
+Test Patch N157
+	SSIM(Result vs GroundTruth):	1.8526293918943662
+	SSIM(Input vs GroundTruth):	1.7928768186532948
+Test Patch N158
+	SSIM(Result vs GroundTruth):	1.826077240050122
+	SSIM(Input vs GroundTruth):	1.765562648577679
+Test Patch N159
+	SSIM(Result vs GroundTruth):	1.8385967257602147
+	SSIM(Input vs GroundTruth):	1.8046386305074908
+Test Patch N160
+	SSIM(Result vs GroundTruth):	2.1435067456172794
+	SSIM(Input vs GroundTruth):	2.122082479235005
+Test Patch N161
+	SSIM(Result vs GroundTruth):	1.7078928113238652
+	SSIM(Input vs GroundTruth):	1.648723276237051
+Test Patch N162
+	SSIM(Result vs GroundTruth):	1.9252250048675736
+	SSIM(Input vs GroundTruth):	1.8282844270534055
+Test Patch N163
+	SSIM(Result vs GroundTruth):	1.8027428166849093
+	SSIM(Input vs GroundTruth):	1.6878072490380116
+Test Patch N164
+	SSIM(Result vs GroundTruth):	1.642428984940145
+	SSIM(Input vs GroundTruth):	1.567325759931664
+Test Patch N165
+	SSIM(Result vs GroundTruth):	2.0662717434723343
+	SSIM(Input vs GroundTruth):	2.050945000995705
+Test Patch N166
+	SSIM(Result vs GroundTruth):	1.748159898402261
+	SSIM(Input vs GroundTruth):	1.6419324547428198
+Test Patch N167
+	SSIM(Result vs GroundTruth):	1.9299786966870336
+	SSIM(Input vs GroundTruth):	1.8691315758307492
+Test Patch N168
+	SSIM(Result vs GroundTruth):	2.2908033227237086
+	SSIM(Input vs GroundTruth):	2.298726580515797
+Test Patch N169
+	SSIM(Result vs GroundTruth):	1.8127288766499012
+	SSIM(Input vs GroundTruth):	1.7572961563785792
+Test Patch N170
+	SSIM(Result vs GroundTruth):	1.2634862204108928
+	SSIM(Input vs GroundTruth):	1.1483744248280168
+Test Patch N171
+	SSIM(Result vs GroundTruth):	1.7494247503318547
+	SSIM(Input vs GroundTruth):	1.69408405150544
+Test Patch N172
+	SSIM(Result vs GroundTruth):	1.4185346479413754
+	SSIM(Input vs GroundTruth):	1.3112940342129578
+Test Patch N173
+	SSIM(Result vs GroundTruth):	1.9007283375056012
+	SSIM(Input vs GroundTruth):	1.8903004500123686
+Test Patch N174
+	SSIM(Result vs GroundTruth):	1.774395639814306
+	SSIM(Input vs GroundTruth):	1.7263136813171969
+Test Patch N175
+	SSIM(Result vs GroundTruth):	1.8115889481145147
+	SSIM(Input vs GroundTruth):	1.7460428098934206
+Test Patch N176
+	SSIM(Result vs GroundTruth):	1.9053305440453947
+	SSIM(Input vs GroundTruth):	1.8418076299996426
+Test Patch N177
+	SSIM(Result vs GroundTruth):	1.6010208100827445
+	SSIM(Input vs GroundTruth):	1.563104315496025
+Test Patch N178
+	SSIM(Result vs GroundTruth):	1.378602411848351
+	SSIM(Input vs GroundTruth):	1.315905143233178
+Test Patch N179
+	SSIM(Result vs GroundTruth):	1.8189679455371053
+	SSIM(Input vs GroundTruth):	1.7217923376460733
+Test Patch N180
+	SSIM(Result vs GroundTruth):	1.9914996678400967
+	SSIM(Input vs GroundTruth):	2.038295099700892
+Test Patch N181
+	SSIM(Result vs GroundTruth):	2.1679322716654426
+	SSIM(Input vs GroundTruth):	2.1520389241924893
+Test Patch N182
+	SSIM(Result vs GroundTruth):	1.7971694690368858
+	SSIM(Input vs GroundTruth):	1.729232497048793
+Test Patch N183
+	SSIM(Result vs GroundTruth):	1.6612629902667448
+	SSIM(Input vs GroundTruth):	1.5721822657904834
+Test Patch N184
+	SSIM(Result vs GroundTruth):	2.1035580862196683
+	SSIM(Input vs GroundTruth):	2.0894374797136672
+Test Patch N185
+	SSIM(Result vs GroundTruth):	2.234135646980991
+	SSIM(Input vs GroundTruth):	2.253402659097426
+Test Patch N186
+	SSIM(Result vs GroundTruth):	1.618893086662255
+	SSIM(Input vs GroundTruth):	1.535770693643803
+Test Patch N187
+	SSIM(Result vs GroundTruth):	1.6226495221342314
+	SSIM(Input vs GroundTruth):	1.4833984110814094
+Test Patch N188
+	SSIM(Result vs GroundTruth):	2.3008651783875567
+	SSIM(Input vs GroundTruth):	2.3215186787338657
+Test Patch N189
+	SSIM(Result vs GroundTruth):	1.7028431179371726
+	SSIM(Input vs GroundTruth):	1.6232877116953657
+Test Patch N190
+	SSIM(Result vs GroundTruth):	2.023616635980815
+	SSIM(Input vs GroundTruth):	2.0000171609776274
+Test Patch N191
+	SSIM(Result vs GroundTruth):	1.7244171049437877
+	SSIM(Input vs GroundTruth):	1.5811015893623839
+Test Patch N192
+	SSIM(Result vs GroundTruth):	2.1592148556318236
+	SSIM(Input vs GroundTruth):	2.17365116452259
+Test Patch N193
+	SSIM(Result vs GroundTruth):	1.5520363082538942
+	SSIM(Input vs GroundTruth):	1.4543346923591254
+Test Patch N194
+	SSIM(Result vs GroundTruth):	1.626436223922392
+	SSIM(Input vs GroundTruth):	1.6569746049953222
+Test Patch N195
+	SSIM(Result vs GroundTruth):	2.2882762696359538
+	SSIM(Input vs GroundTruth):	2.321382011164929
+Test Patch N196
+	SSIM(Result vs GroundTruth):	1.8693673144410967
+	SSIM(Input vs GroundTruth):	1.7877111357431237
+Test Patch N197
+	SSIM(Result vs GroundTruth):	2.1195075434651844
+	SSIM(Input vs GroundTruth):	2.0960038630633435
+Test Patch N198
+	SSIM(Result vs GroundTruth):	2.2272277289838014
+	SSIM(Input vs GroundTruth):	2.2322248315708015
+Test Patch N199
+	SSIM(Result vs GroundTruth):	1.5420729990778428
+	SSIM(Input vs GroundTruth):	1.4494487051006688
+Test Patch N200
+	SSIM(Result vs GroundTruth):	1.9035603572871138
+	SSIM(Input vs GroundTruth):	1.8575905355682274
+Test Patch N201
+	SSIM(Result vs GroundTruth):	1.6761710834638481
+	SSIM(Input vs GroundTruth):	1.5904233939218027
+Test Patch N202
+	SSIM(Result vs GroundTruth):	2.1014167274049362
+	SSIM(Input vs GroundTruth):	2.0962881078766653
+Test Patch N203
+	SSIM(Result vs GroundTruth):	2.2703819504167058
+	SSIM(Input vs GroundTruth):	2.293997214368935
+Test Patch N204
+	SSIM(Result vs GroundTruth):	1.4991429410786283
+	SSIM(Input vs GroundTruth):	1.397023226632373
+Test Patch N205
+	SSIM(Result vs GroundTruth):	1.6128639179692386
+	SSIM(Input vs GroundTruth):	1.5308148853636636
+Test Patch N206
+	SSIM(Result vs GroundTruth):	2.3071293176925116
+	SSIM(Input vs GroundTruth):	2.320262024809635
+Test Patch N207
+	SSIM(Result vs GroundTruth):	2.0517829543226425
+	SSIM(Input vs GroundTruth):	2.0356952716209036
+Test Patch N208
+	SSIM(Result vs GroundTruth):	1.7682217023721165
+	SSIM(Input vs GroundTruth):	1.6835447680804863
+Test Patch N209
+	SSIM(Result vs GroundTruth):	1.5181455441143017
+	SSIM(Input vs GroundTruth):	1.4595603546268177
+Test Patch N210
+	SSIM(Result vs GroundTruth):	1.7170061500324012
+	SSIM(Input vs GroundTruth):	1.6006463562864486
+Test Patch N211
+	SSIM(Result vs GroundTruth):	2.1098368802351724
+	SSIM(Input vs GroundTruth):	2.130528062218453
+Test Patch N212
+	SSIM(Result vs GroundTruth):	2.1141866361843156
+	SSIM(Input vs GroundTruth):	2.0999322377837015
+Test Patch N213
+	SSIM(Result vs GroundTruth):	2.2349162711332595
+	SSIM(Input vs GroundTruth):	2.2516387564605838
+Test Patch N214
+	SSIM(Result vs GroundTruth):	1.8303808491916302
+	SSIM(Input vs GroundTruth):	1.7587040381961563
+Test Patch N215
+	SSIM(Result vs GroundTruth):	2.2852201599651147
+	SSIM(Input vs GroundTruth):	2.321946085090793
+Test Patch N216
+	SSIM(Result vs GroundTruth):	1.7780867133914393
+	SSIM(Input vs GroundTruth):	1.6959902791394401
+Test Patch N217
+	SSIM(Result vs GroundTruth):	1.9767960932444484
+	SSIM(Input vs GroundTruth):	1.947228459870025
+Test Patch N218
+	SSIM(Result vs GroundTruth):	1.6581954839807203
+	SSIM(Input vs GroundTruth):	1.5870362442939616
+Test Patch N219
+	SSIM(Result vs GroundTruth):	2.087480423206827
+	SSIM(Input vs GroundTruth):	2.2041629138985153
+Test Patch N220
+	SSIM(Result vs GroundTruth):	1.7877623504488915
+	SSIM(Input vs GroundTruth):	1.7234204627638823
+Test Patch N221
+	SSIM(Result vs GroundTruth):	2.2179374798784464
+	SSIM(Input vs GroundTruth):	2.2203777387207824
+Test Patch N222
+	SSIM(Result vs GroundTruth):	1.559927660266157
+	SSIM(Input vs GroundTruth):	1.468821860209189
+Test Patch N223
+	SSIM(Result vs GroundTruth):	2.229913665238327
+	SSIM(Input vs GroundTruth):	2.24882132675987
+Test Patch N224
+	SSIM(Result vs GroundTruth):	1.8192162283497322
+	SSIM(Input vs GroundTruth):	1.7729377991568374
+Test Patch N225
+	SSIM(Result vs GroundTruth):	2.2526949890466903
+	SSIM(Input vs GroundTruth):	2.2644151937508936
+Test Patch N226
+	SSIM(Result vs GroundTruth):	2.1837998748793663
+	SSIM(Input vs GroundTruth):	2.3088454578051425
+Test Patch N227
+	SSIM(Result vs GroundTruth):	1.9386819792806502
+	SSIM(Input vs GroundTruth):	1.9071961559567436
+Test Patch N228
+	SSIM(Result vs GroundTruth):	2.007453728691442
+	SSIM(Input vs GroundTruth):	1.9843163994178978
+Test Patch N229
+	SSIM(Result vs GroundTruth):	2.0733860324657942
+	SSIM(Input vs GroundTruth):	2.041477147049232
+Test Patch N230
+	SSIM(Result vs GroundTruth):	2.1535956244416097
+	SSIM(Input vs GroundTruth):	2.124221092014162
+Test Patch N231
+	SSIM(Result vs GroundTruth):	1.918768864156708
+	SSIM(Input vs GroundTruth):	1.8935174342306738
+Test Patch N232
+	SSIM(Result vs GroundTruth):	1.9420430700689457
+	SSIM(Input vs GroundTruth):	2.0160776248621874
+Test Patch N233
+	SSIM(Result vs GroundTruth):	1.932781704158602
+	SSIM(Input vs GroundTruth):	1.9096405432890964
+Test Patch N234
+	SSIM(Result vs GroundTruth):	2.173876634952517
+	SSIM(Input vs GroundTruth):	2.1830138695492867
+Test Patch N235
+	SSIM(Result vs GroundTruth):	1.7432193714206148
+	SSIM(Input vs GroundTruth):	1.684120558804765
+Test Patch N236
+	SSIM(Result vs GroundTruth):	2.2480964187586454
+	SSIM(Input vs GroundTruth):	2.250584748534125
+Test Patch N237
+	SSIM(Result vs GroundTruth):	1.68969128129365
+	SSIM(Input vs GroundTruth):	1.6125949061735776
+Test Patch N238
+	SSIM(Result vs GroundTruth):	1.806372269094595
+	SSIM(Input vs GroundTruth):	1.7414346743295919
+Test Patch N239
+	SSIM(Result vs GroundTruth):	1.8859110393562617
+	SSIM(Input vs GroundTruth):	1.8531746532121183
+Test Patch N240
+	SSIM(Result vs GroundTruth):	1.4527738688385305
+	SSIM(Input vs GroundTruth):	1.380426714964734
+Test Patch N241
+	SSIM(Result vs GroundTruth):	2.2456663563635133
+	SSIM(Input vs GroundTruth):	2.2743588878984435
+Test Patch N242
+	SSIM(Result vs GroundTruth):	1.9229970677608614
+	SSIM(Input vs GroundTruth):	2.0854542059277947
+Test Patch N243
+	SSIM(Result vs GroundTruth):	2.0807538621168487
+	SSIM(Input vs GroundTruth):	2.0654286748745765
+Test Patch N244
+	SSIM(Result vs GroundTruth):	2.2631166828568956
+	SSIM(Input vs GroundTruth):	2.3076946945844496
+Test Patch N245
+	SSIM(Result vs GroundTruth):	2.2122735390626134
+	SSIM(Input vs GroundTruth):	2.213994501512395
+Test Patch N246
+	SSIM(Result vs GroundTruth):	2.112742324142839
+	SSIM(Input vs GroundTruth):	2.1082907221879985
+Test Patch N247
+	SSIM(Result vs GroundTruth):	2.2885652942985817
+	SSIM(Input vs GroundTruth):	2.3118491712719753
+Test Patch N248
+	SSIM(Result vs GroundTruth):	1.5781501515374246
+	SSIM(Input vs GroundTruth):	1.4580473663984805
+Test Patch N249
+	SSIM(Result vs GroundTruth):	1.8262159860795888
+	SSIM(Input vs GroundTruth):	1.7450334385614457
+Test Patch N250
+	SSIM(Result vs GroundTruth):	1.9474747371027799
+	SSIM(Input vs GroundTruth):	1.8952606756050003
+Test Patch N251
+	SSIM(Result vs GroundTruth):	1.8895671477805984
+	SSIM(Input vs GroundTruth):	1.8544527444439571
+Test Patch N252
+	SSIM(Result vs GroundTruth):	2.0406907420568463
+	SSIM(Input vs GroundTruth):	2.0590448542794726
+Test Patch N253
+	SSIM(Result vs GroundTruth):	2.2791085194599225
+	SSIM(Input vs GroundTruth):	2.321942749075209
+Test Patch N254
+	SSIM(Result vs GroundTruth):	1.6220932464421618
+	SSIM(Input vs GroundTruth):	1.5348700860322346
+Test Patch N255
+	SSIM(Result vs GroundTruth):	1.6417347295257492
+	SSIM(Input vs GroundTruth):	1.5333392859211254
+Test Patch N256
+	SSIM(Result vs GroundTruth):	1.7990844051145758
+	SSIM(Input vs GroundTruth):	1.6847011647232673
+Test Patch N257
+	SSIM(Result vs GroundTruth):	1.9272465858909682
+	SSIM(Input vs GroundTruth):	1.8783519287250294
+Test Patch N258
+	SSIM(Result vs GroundTruth):	1.751744828596416
+	SSIM(Input vs GroundTruth):	1.7260608551590608
+Test Patch N259
+	SSIM(Result vs GroundTruth):	2.112633725377703
+	SSIM(Input vs GroundTruth):	2.124260902525827
+Test Patch N260
+	SSIM(Result vs GroundTruth):	1.360007119232769
+	SSIM(Input vs GroundTruth):	1.2816397676753282
+Test Patch N261
+	SSIM(Result vs GroundTruth):	2.0848128280426703
+	SSIM(Input vs GroundTruth):	2.1172511531103084
+Test Patch N262
+	SSIM(Result vs GroundTruth):	1.9598807727966654
+	SSIM(Input vs GroundTruth):	1.919264942392961
+Test Patch N263
+	SSIM(Result vs GroundTruth):	1.8937158921880326
+	SSIM(Input vs GroundTruth):	1.8133973670932853
+Test Patch N264
+	SSIM(Result vs GroundTruth):	1.420646258984891
+	SSIM(Input vs GroundTruth):	1.3541522893429043
+Test Patch N265
+	SSIM(Result vs GroundTruth):	1.8656421913518653
+	SSIM(Input vs GroundTruth):	1.8574118309486072
+Test Patch N266
+	SSIM(Result vs GroundTruth):	1.7738493509027569
+	SSIM(Input vs GroundTruth):	1.7041528321797164
+Test Patch N267
+	SSIM(Result vs GroundTruth):	1.707086245355351
+	SSIM(Input vs GroundTruth):	1.6173656041051077
+Test Patch N268
+	SSIM(Result vs GroundTruth):	2.1030030582734334
+	SSIM(Input vs GroundTruth):	2.097919921693324
+Test Patch N269
+	SSIM(Result vs GroundTruth):	1.4717942848234151
+	SSIM(Input vs GroundTruth):	1.3909676360602603
+Test Patch N270
+	SSIM(Result vs GroundTruth):	1.7288483409187294
+	SSIM(Input vs GroundTruth):	1.6037345127073366
+Test Patch N271
+	SSIM(Result vs GroundTruth):	1.5428635146790866
+	SSIM(Input vs GroundTruth):	1.5179311743509363
+Test Patch N272
+	SSIM(Result vs GroundTruth):	2.291467091274043
+	SSIM(Input vs GroundTruth):	2.3162297400323477
+Test Patch N273
+	SSIM(Result vs GroundTruth):	1.9973943929222928
+	SSIM(Input vs GroundTruth):	1.9762413080578372
+Test Patch N274
+	SSIM(Result vs GroundTruth):	2.162458601903511
+	SSIM(Input vs GroundTruth):	2.164536692527076
+Test Patch N275
+	SSIM(Result vs GroundTruth):	2.03420784892478
+	SSIM(Input vs GroundTruth):	2.0077360767801196
+Test Patch N276
+	SSIM(Result vs GroundTruth):	2.1755748655134726
+	SSIM(Input vs GroundTruth):	2.192864908947863
+Test Patch N277
+	SSIM(Result vs GroundTruth):	2.1348576148771494
+	SSIM(Input vs GroundTruth):	2.173209733343175
+Test Patch N278
+	SSIM(Result vs GroundTruth):	1.9906507821033776
+	SSIM(Input vs GroundTruth):	1.909331834692513
+Test Patch N279
+	SSIM(Result vs GroundTruth):	1.9898346914386613
+	SSIM(Input vs GroundTruth):	1.9682655427528495
+Test Patch N280
+	SSIM(Result vs GroundTruth):	2.0286838843865107
+	SSIM(Input vs GroundTruth):	1.975694519492394
+Test Patch N281
+	SSIM(Result vs GroundTruth):	2.199160956006027
+	SSIM(Input vs GroundTruth):	2.235726230435021
+Test Patch N282
+	SSIM(Result vs GroundTruth):	2.0130640515812894
+	SSIM(Input vs GroundTruth):	1.965580652803518
+Test Patch N283
+	SSIM(Result vs GroundTruth):	1.6987708739336138
+	SSIM(Input vs GroundTruth):	1.675154349039302
+Test Patch N284
+	SSIM(Result vs GroundTruth):	1.8149532520208813
+	SSIM(Input vs GroundTruth):	1.7707341384310415
+Test Patch N285
+	SSIM(Result vs GroundTruth):	2.2829247453916617
+	SSIM(Input vs GroundTruth):	2.316558258599727
+Test Patch N286
+	SSIM(Result vs GroundTruth):	1.995039251621439
+	SSIM(Input vs GroundTruth):	1.944938568638242
+Test Patch N287
+	SSIM(Result vs GroundTruth):	2.1041976434270304
+	SSIM(Input vs GroundTruth):	2.244386075638209
+Test Patch N288
+	SSIM(Result vs GroundTruth):	2.271625346216488
+	SSIM(Input vs GroundTruth):	2.305094684382781
+Test Patch N289
+	SSIM(Result vs GroundTruth):	1.299544597089826
+	SSIM(Input vs GroundTruth):	1.2377694665256407
+Test Patch N290
+	SSIM(Result vs GroundTruth):	1.5793448754300006
+	SSIM(Input vs GroundTruth):	1.4893704798903613
+Test Patch N291
+	SSIM(Result vs GroundTruth):	2.1276045604934533
+	SSIM(Input vs GroundTruth):	2.147712465659497
+Test Patch N292
+	SSIM(Result vs GroundTruth):	2.240736749281341
+	SSIM(Input vs GroundTruth):	2.233744372683888
+Test Patch N293
+	SSIM(Result vs GroundTruth):	1.685746640006113
+	SSIM(Input vs GroundTruth):	1.6180454447796166
+Test Patch N294
+	SSIM(Result vs GroundTruth):	1.9520088068837853
+	SSIM(Input vs GroundTruth):	1.987218992693343
+Test Patch N295
+	SSIM(Result vs GroundTruth):	1.824999585723412
+	SSIM(Input vs GroundTruth):	1.739381165788347
+Test Patch N296
+	SSIM(Result vs GroundTruth):	2.1987589750874106
+	SSIM(Input vs GroundTruth):	2.2015537137765993
+Test Patch N297
+	SSIM(Result vs GroundTruth):	1.8709296268679068
+	SSIM(Input vs GroundTruth):	1.9136479042566554
+Test Patch N298
+	SSIM(Result vs GroundTruth):	2.200280997573159
+	SSIM(Input vs GroundTruth):	2.2252823996832265
+Test Patch N299
+	SSIM(Result vs GroundTruth):	1.6515113654491467
+	SSIM(Input vs GroundTruth):	1.5999608352736474
+
+Total Average Results (SSIM):
+	Average SSIM(Result vs GroundTruth):	1.8977617258065622
+	Average SSIM(Input vs GroundTruth):	1.8663770403045559
+
+~~~~~~~~~~~~~>>>MSE METRIC:
+Test Patch N0
+	MSE(Result vs GroundTruth):	61.78360110803324
+	MSE(Input vs GroundTruth):	63.131412742382274
+Test Patch N1
+	MSE(Result vs GroundTruth):	67.45433056325022
+	MSE(Input vs GroundTruth):	66.4949215143121
+Test Patch N2
+	MSE(Result vs GroundTruth):	88.4272945521699
+	MSE(Input vs GroundTruth):	20.565244690674053
+Test Patch N3
+	MSE(Result vs GroundTruth):	81.64221606648199
+	MSE(Input vs GroundTruth):	76.13706371191135
+Test Patch N4
+	MSE(Result vs GroundTruth):	95.56816251154201
+	MSE(Input vs GroundTruth):	95.30478301015697
+Test Patch N5
+	MSE(Result vs GroundTruth):	24.353130193905816
+	MSE(Input vs GroundTruth):	22.905004616805172
+Test Patch N6
+	MSE(Result vs GroundTruth):	39.33189289012004
+	MSE(Input vs GroundTruth):	34.65647276084949
+Test Patch N7
+	MSE(Result vs GroundTruth):	79.27530932594645
+	MSE(Input vs GroundTruth):	75.08834718374885
+Test Patch N8
+	MSE(Result vs GroundTruth):	41.924469067405354
+	MSE(Input vs GroundTruth):	37.79202216066482
+Test Patch N9
+	MSE(Result vs GroundTruth):	27.543047091412742
+	MSE(Input vs GroundTruth):	25.822012927054477
+Test Patch N10
+	MSE(Result vs GroundTruth):	66.8267405355494
+	MSE(Input vs GroundTruth):	63.85244690674053
+Test Patch N11
+	MSE(Result vs GroundTruth):	60.128236380424745
+	MSE(Input vs GroundTruth):	61.16975069252078
+Test Patch N12
+	MSE(Result vs GroundTruth):	79.29277931671284
+	MSE(Input vs GroundTruth):	5.6058356417359185
+Test Patch N13
+	MSE(Result vs GroundTruth):	25.80794090489381
+	MSE(Input vs GroundTruth):	27.263638042474607
+Test Patch N14
+	MSE(Result vs GroundTruth):	31.463564173591873
+	MSE(Input vs GroundTruth):	10.934515235457063
+Test Patch N15
+	MSE(Result vs GroundTruth):	92.9225484764543
+	MSE(Input vs GroundTruth):	0.39863342566943677
+Test Patch N16
+	MSE(Result vs GroundTruth):	93.24081255771006
+	MSE(Input vs GroundTruth):	69.38249307479225
+Test Patch N17
+	MSE(Result vs GroundTruth):	77.61019390581717
+	MSE(Input vs GroundTruth):	67.69972299168975
+Test Patch N18
+	MSE(Result vs GroundTruth):	88.41329639889197
+	MSE(Input vs GroundTruth):	89.4818836565097
+Test Patch N19
+	MSE(Result vs GroundTruth):	66.61935364727609
+	MSE(Input vs GroundTruth):	63.936657433056325
+Test Patch N20
+	MSE(Result vs GroundTruth):	72.27043397968606
+	MSE(Input vs GroundTruth):	39.11793167128347
+Test Patch N21
+	MSE(Result vs GroundTruth):	93.52875346260387
+	MSE(Input vs GroundTruth):	26.37296398891967
+Test Patch N22
+	MSE(Result vs GroundTruth):	70.62688827331486
+	MSE(Input vs GroundTruth):	44.16627885503232
+Test Patch N23
+	MSE(Result vs GroundTruth):	78.76664819944598
+	MSE(Input vs GroundTruth):	73.4805540166205
+Test Patch N24
+	MSE(Result vs GroundTruth):	89.63220683287166
+	MSE(Input vs GroundTruth):	75.35124653739612
+Test Patch N25
+	MSE(Result vs GroundTruth):	63.2278485687904
+	MSE(Input vs GroundTruth):	56.948513388734995
+Test Patch N26
+	MSE(Result vs GroundTruth):	101.53351800554016
+	MSE(Input vs GroundTruth):	103.60679593721144
+Test Patch N27
+	MSE(Result vs GroundTruth):	57.64498614958449
+	MSE(Input vs GroundTruth):	59.66083102493075
+Test Patch N28
+	MSE(Result vs GroundTruth):	62.84321329639889
+	MSE(Input vs GroundTruth):	46.639335180055404
+Test Patch N29
+	MSE(Result vs GroundTruth):	48.24343490304709
+	MSE(Input vs GroundTruth):	52.48506001846722
+Test Patch N30
+	MSE(Result vs GroundTruth):	60.424192059095105
+	MSE(Input vs GroundTruth):	62.49170821791321
+Test Patch N31
+	MSE(Result vs GroundTruth):	83.17654662973223
+	MSE(Input vs GroundTruth):	33.81562326869806
+Test Patch N32
+	MSE(Result vs GroundTruth):	77.48361957525393
+	MSE(Input vs GroundTruth):	70.41196675900277
+Test Patch N33
+	MSE(Result vs GroundTruth):	60.97924284395199
+	MSE(Input vs GroundTruth):	41.42943674976916
+Test Patch N34
+	MSE(Result vs GroundTruth):	33.2682917820868
+	MSE(Input vs GroundTruth):	23.747885503231764
+Test Patch N35
+	MSE(Result vs GroundTruth):	86.93857802400738
+	MSE(Input vs GroundTruth):	84.65396121883657
+Test Patch N36
+	MSE(Result vs GroundTruth):	125.07556786703601
+	MSE(Input vs GroundTruth):	0.2952908587257618
+Test Patch N37
+	MSE(Result vs GroundTruth):	101.7228808864266
+	MSE(Input vs GroundTruth):	103.95915050784856
+Test Patch N38
+	MSE(Result vs GroundTruth):	61.69964912280702
+	MSE(Input vs GroundTruth):	63.25695290858726
+Test Patch N39
+	MSE(Result vs GroundTruth):	21.216177285318558
+	MSE(Input vs GroundTruth):	7.306038781163435
+Test Patch N40
+	MSE(Result vs GroundTruth):	79.5464081255771
+	MSE(Input vs GroundTruth):	71.23970452446906
+Test Patch N41
+	MSE(Result vs GroundTruth):	94.93185595567867
+	MSE(Input vs GroundTruth):	9.803397968605724
+Test Patch N42
+	MSE(Result vs GroundTruth):	47.673831948291784
+	MSE(Input vs GroundTruth):	48.1743674976916
+Test Patch N43
+	MSE(Result vs GroundTruth):	88.80280701754386
+	MSE(Input vs GroundTruth):	77.31209602954755
+Test Patch N44
+	MSE(Result vs GroundTruth):	86.8381163434903
+	MSE(Input vs GroundTruth):	85.92727608494921
+Test Patch N45
+	MSE(Result vs GroundTruth):	50.382825484764545
+	MSE(Input vs GroundTruth):	47.7870729455217
+Test Patch N46
+	MSE(Result vs GroundTruth):	83.36542936288089
+	MSE(Input vs GroundTruth):	27.208901200369343
+Test Patch N47
+	MSE(Result vs GroundTruth):	85.36794090489381
+	MSE(Input vs GroundTruth):	82.91102493074793
+Test Patch N48
+	MSE(Result vs GroundTruth):	83.72716528162512
+	MSE(Input vs GroundTruth):	85.96184672206833
+Test Patch N49
+	MSE(Result vs GroundTruth):	51.973518005540164
+	MSE(Input vs GroundTruth):	46.988439519852264
+Test Patch N50
+	MSE(Result vs GroundTruth):	74.88790397045244
+	MSE(Input vs GroundTruth):	69.90677746999077
+Test Patch N51
+	MSE(Result vs GroundTruth):	68.51301939058172
+	MSE(Input vs GroundTruth):	71.9468513388735
+Test Patch N52
+	MSE(Result vs GroundTruth):	68.90459833795013
+	MSE(Input vs GroundTruth):	67.78219759926131
+Test Patch N53
+	MSE(Result vs GroundTruth):	63.16986149584488
+	MSE(Input vs GroundTruth):	59.5216620498615
+Test Patch N54
+	MSE(Result vs GroundTruth):	81.26326869806094
+	MSE(Input vs GroundTruth):	29.938947368421054
+Test Patch N55
+	MSE(Result vs GroundTruth):	65.11604801477378
+	MSE(Input vs GroundTruth):	55.731043397968605
+Test Patch N56
+	MSE(Result vs GroundTruth):	10.251671283471838
+	MSE(Input vs GroundTruth):	6.995346260387811
+Test Patch N57
+	MSE(Result vs GroundTruth):	40.20251154201293
+	MSE(Input vs GroundTruth):	41.06914127423823
+Test Patch N58
+	MSE(Result vs GroundTruth):	30.467146814404433
+	MSE(Input vs GroundTruth):	28.7323730378578
+Test Patch N59
+	MSE(Result vs GroundTruth):	73.84321329639889
+	MSE(Input vs GroundTruth):	72.93891043397969
+Test Patch N60
+	MSE(Result vs GroundTruth):	81.91242843951986
+	MSE(Input vs GroundTruth):	80.37056325023084
+Test Patch N61
+	MSE(Result vs GroundTruth):	103.13806094182826
+	MSE(Input vs GroundTruth):	0.37746999076638965
+Test Patch N62
+	MSE(Result vs GroundTruth):	63.98987996306556
+	MSE(Input vs GroundTruth):	58.87782086795937
+Test Patch N63
+	MSE(Result vs GroundTruth):	129.15815327793166
+	MSE(Input vs GroundTruth):	0.22692520775623268
+Test Patch N64
+	MSE(Result vs GroundTruth):	75.0538134810711
+	MSE(Input vs GroundTruth):	58.19530932594645
+Test Patch N65
+	MSE(Result vs GroundTruth):	59.01772853185596
+	MSE(Input vs GroundTruth):	46.68856879039704
+Test Patch N66
+	MSE(Result vs GroundTruth):	84.50315789473684
+	MSE(Input vs GroundTruth):	58.38072022160665
+Test Patch N67
+	MSE(Result vs GroundTruth):	68.40723915050785
+	MSE(Input vs GroundTruth):	63.509141274238225
+Test Patch N68
+	MSE(Result vs GroundTruth):	76.35172668513388
+	MSE(Input vs GroundTruth):	76.28613111726685
+Test Patch N69
+	MSE(Result vs GroundTruth):	101.79564173591875
+	MSE(Input vs GroundTruth):	0.44949215143120963
+Test Patch N70
+	MSE(Result vs GroundTruth):	33.917673130193904
+	MSE(Input vs GroundTruth):	23.035087719298247
+Test Patch N71
+	MSE(Result vs GroundTruth):	92.8890489381348
+	MSE(Input vs GroundTruth):	49.5046352723915
+Test Patch N72
+	MSE(Result vs GroundTruth):	70.74947368421053
+	MSE(Input vs GroundTruth):	60.96823638042475
+Test Patch N73
+	MSE(Result vs GroundTruth):	82.54175438596491
+	MSE(Input vs GroundTruth):	3.830544783010157
+Test Patch N74
+	MSE(Result vs GroundTruth):	59.20838411819021
+	MSE(Input vs GroundTruth):	41.53883656509695
+Test Patch N75
+	MSE(Result vs GroundTruth):	26.76
+	MSE(Input vs GroundTruth):	24.249861495844875
+Test Patch N76
+	MSE(Result vs GroundTruth):	60.66603878116344
+	MSE(Input vs GroundTruth):	51.439963065558636
+Test Patch N77
+	MSE(Result vs GroundTruth):	40.75486611265005
+	MSE(Input vs GroundTruth):	19.37617728531856
+Test Patch N78
+	MSE(Result vs GroundTruth):	15.876084949215143
+	MSE(Input vs GroundTruth):	8.32635272391505
+Test Patch N79
+	MSE(Result vs GroundTruth):	73.13939058171745
+	MSE(Input vs GroundTruth):	61.75120960295475
+Test Patch N80
+	MSE(Result vs GroundTruth):	77.05894736842106
+	MSE(Input vs GroundTruth):	73.51375807940904
+Test Patch N81
+	MSE(Result vs GroundTruth):	92.99313019390581
+	MSE(Input vs GroundTruth):	63.5056325023084
+Test Patch N82
+	MSE(Result vs GroundTruth):	54.90419205909511
+	MSE(Input vs GroundTruth):	57.49573407202216
+Test Patch N83
+	MSE(Result vs GroundTruth):	85.79793167128348
+	MSE(Input vs GroundTruth):	44.576768236380424
+Test Patch N84
+	MSE(Result vs GroundTruth):	121.1604432132964
+	MSE(Input vs GroundTruth):	4.235013850415513
+Test Patch N85
+	MSE(Result vs GroundTruth):	86.46500461680517
+	MSE(Input vs GroundTruth):	72.1064081255771
+Test Patch N86
+	MSE(Result vs GroundTruth):	21.825189289012005
+	MSE(Input vs GroundTruth):	16.169307479224376
+Test Patch N87
+	MSE(Result vs GroundTruth):	46.76971375807941
+	MSE(Input vs GroundTruth):	7.64550323176362
+Test Patch N88
+	MSE(Result vs GroundTruth):	61.625263157894736
+	MSE(Input vs GroundTruth):	16.23039704524469
+Test Patch N89
+	MSE(Result vs GroundTruth):	71.94921514312097
+	MSE(Input vs GroundTruth):	68.96465373961219
+Test Patch N90
+	MSE(Result vs GroundTruth):	95.63689750692521
+	MSE(Input vs GroundTruth):	3.7134256694367496
+Test Patch N91
+	MSE(Result vs GroundTruth):	85.52428439519852
+	MSE(Input vs GroundTruth):	7.2629362880886426
+Test Patch N92
+	MSE(Result vs GroundTruth):	41.076048014773775
+	MSE(Input vs GroundTruth):	0.7025300092336103
+Test Patch N93
+	MSE(Result vs GroundTruth):	78.52683287165281
+	MSE(Input vs GroundTruth):	55.660646352723916
+Test Patch N94
+	MSE(Result vs GroundTruth):	86.24864265927978
+	MSE(Input vs GroundTruth):	67.7582271468144
+Test Patch N95
+	MSE(Result vs GroundTruth):	63.861754385964915
+	MSE(Input vs GroundTruth):	61.260424746075714
+Test Patch N96
+	MSE(Result vs GroundTruth):	84.04753462603878
+	MSE(Input vs GroundTruth):	70.22112650046168
+Test Patch N97
+	MSE(Result vs GroundTruth):	108.4512650046168
+	MSE(Input vs GroundTruth):	30.939095106186517
+Test Patch N98
+	MSE(Result vs GroundTruth):	21.236602031394277
+	MSE(Input vs GroundTruth):	2.896731301939058
+Test Patch N99
+	MSE(Result vs GroundTruth):	81.19372114496768
+	MSE(Input vs GroundTruth):	42.248014773776546
+Test Patch N100
+	MSE(Result vs GroundTruth):	75.75948291782086
+	MSE(Input vs GroundTruth):	52.49071098799631
+Test Patch N101
+	MSE(Result vs GroundTruth):	52.910766389658356
+	MSE(Input vs GroundTruth):	50.68971375807941
+Test Patch N102
+	MSE(Result vs GroundTruth):	9.995974145891044
+	MSE(Input vs GroundTruth):	2.0962511542012927
+Test Patch N103
+	MSE(Result vs GroundTruth):	53.75032317636196
+	MSE(Input vs GroundTruth):	10.43342566943675
+Test Patch N104
+	MSE(Result vs GroundTruth):	73.97950138504154
+	MSE(Input vs GroundTruth):	33.99482917820868
+Test Patch N105
+	MSE(Result vs GroundTruth):	82.59120960295475
+	MSE(Input vs GroundTruth):	80.61647276084949
+Test Patch N106
+	MSE(Result vs GroundTruth):	38.99601108033241
+	MSE(Input vs GroundTruth):	5.056842105263158
+Test Patch N107
+	MSE(Result vs GroundTruth):	53.9592243767313
+	MSE(Input vs GroundTruth):	1.3450046168051708
+Test Patch N108
+	MSE(Result vs GroundTruth):	77.20664819944598
+	MSE(Input vs GroundTruth):	73.77617728531855
+Test Patch N109
+	MSE(Result vs GroundTruth):	79.13898430286243
+	MSE(Input vs GroundTruth):	57.926241920590954
+Test Patch N110
+	MSE(Result vs GroundTruth):	66.80971375807941
+	MSE(Input vs GroundTruth):	63.97078485687904
+Test Patch N111
+	MSE(Result vs GroundTruth):	72.01669436749769
+	MSE(Input vs GroundTruth):	65.93543859649122
+Test Patch N112
+	MSE(Result vs GroundTruth):	48.403324099722994
+	MSE(Input vs GroundTruth):	20.284247460757157
+Test Patch N113
+	MSE(Result vs GroundTruth):	116.54020313942752
+	MSE(Input vs GroundTruth):	2.373702677746999
+Test Patch N114
+	MSE(Result vs GroundTruth):	66.98046168051708
+	MSE(Input vs GroundTruth):	0.25200369344413664
+Test Patch N115
+	MSE(Result vs GroundTruth):	110.80450600184672
+	MSE(Input vs GroundTruth):	12.746371191135735
+Test Patch N116
+	MSE(Result vs GroundTruth):	77.6437673130194
+	MSE(Input vs GroundTruth):	77.43575253924284
+Test Patch N117
+	MSE(Result vs GroundTruth):	84.57732225300093
+	MSE(Input vs GroundTruth):	12.243545706371192
+Test Patch N118
+	MSE(Result vs GroundTruth):	81.33373961218837
+	MSE(Input vs GroundTruth):	22.6405540166205
+Test Patch N119
+	MSE(Result vs GroundTruth):	110.83460757156048
+	MSE(Input vs GroundTruth):	6.684579870729455
+Test Patch N120
+	MSE(Result vs GroundTruth):	119.11804247460758
+	MSE(Input vs GroundTruth):	0.7039335180055402
+Test Patch N121
+	MSE(Result vs GroundTruth):	71.25684210526316
+	MSE(Input vs GroundTruth):	46.391985226223454
+Test Patch N122
+	MSE(Result vs GroundTruth):	92.62747922437673
+	MSE(Input vs GroundTruth):	92.23379501385041
+Test Patch N123
+	MSE(Result vs GroundTruth):	69.7552354570637
+	MSE(Input vs GroundTruth):	70.17662049861495
+Test Patch N124
+	MSE(Result vs GroundTruth):	73.24919667590028
+	MSE(Input vs GroundTruth):	74.13588180978763
+Test Patch N125
+	MSE(Result vs GroundTruth):	67.65606648199446
+	MSE(Input vs GroundTruth):	66.08657433056325
+Test Patch N126
+	MSE(Result vs GroundTruth):	85.87320406278855
+	MSE(Input vs GroundTruth):	81.54064635272391
+Test Patch N127
+	MSE(Result vs GroundTruth):	55.83327793167128
+	MSE(Input vs GroundTruth):	11.375881809787627
+Test Patch N128
+	MSE(Result vs GroundTruth):	51.06814404432133
+	MSE(Input vs GroundTruth):	9.938134810710988
+Test Patch N129
+	MSE(Result vs GroundTruth):	83.06965835641736
+	MSE(Input vs GroundTruth):	69.19416435826408
+Test Patch N130
+	MSE(Result vs GroundTruth):	83.17222530009234
+	MSE(Input vs GroundTruth):	34.18832871652816
+Test Patch N131
+	MSE(Result vs GroundTruth):	92.50714681440444
+	MSE(Input vs GroundTruth):	47.024228993536475
+Test Patch N132
+	MSE(Result vs GroundTruth):	46.333702677747
+	MSE(Input vs GroundTruth):	42.35191135734072
+Test Patch N133
+	MSE(Result vs GroundTruth):	87.20262234533703
+	MSE(Input vs GroundTruth):	13.486869806094182
+Test Patch N134
+	MSE(Result vs GroundTruth):	69.81891043397968
+	MSE(Input vs GroundTruth):	41.153684210526315
+Test Patch N135
+	MSE(Result vs GroundTruth):	21.334404432132963
+	MSE(Input vs GroundTruth):	20.79796860572484
+Test Patch N136
+	MSE(Result vs GroundTruth):	85.63852262234533
+	MSE(Input vs GroundTruth):	75.43737765466297
+Test Patch N137
+	MSE(Result vs GroundTruth):	88.67848568790397
+	MSE(Input vs GroundTruth):	1.7432317636195753
+Test Patch N138
+	MSE(Result vs GroundTruth):	96.91556786703602
+	MSE(Input vs GroundTruth):	100.75024930747922
+Test Patch N139
+	MSE(Result vs GroundTruth):	87.55431209602955
+	MSE(Input vs GroundTruth):	69.87397968605725
+Test Patch N140
+	MSE(Result vs GroundTruth):	61.22836565096953
+	MSE(Input vs GroundTruth):	57.07438596491228
+Test Patch N141
+	MSE(Result vs GroundTruth):	58.11538319482918
+	MSE(Input vs GroundTruth):	58.14068328716528
+Test Patch N142
+	MSE(Result vs GroundTruth):	82.85122807017544
+	MSE(Input vs GroundTruth):	85.89540166204986
+Test Patch N143
+	MSE(Result vs GroundTruth):	30.276749769159743
+	MSE(Input vs GroundTruth):	8.431837488457987
+Test Patch N144
+	MSE(Result vs GroundTruth):	47.65192982456141
+	MSE(Input vs GroundTruth):	0.34264081255771006
+Test Patch N145
+	MSE(Result vs GroundTruth):	49.886648199445986
+	MSE(Input vs GroundTruth):	23.635604801477378
+Test Patch N146
+	MSE(Result vs GroundTruth):	69.87892890120037
+	MSE(Input vs GroundTruth):	68.54522622345337
+Test Patch N147
+	MSE(Result vs GroundTruth):	66.62803324099723
+	MSE(Input vs GroundTruth):	49.50422899353647
+Test Patch N148
+	MSE(Result vs GroundTruth):	60.172336103416434
+	MSE(Input vs GroundTruth):	2.882179132040628
+Test Patch N149
+	MSE(Result vs GroundTruth):	6.9481809787626965
+	MSE(Input vs GroundTruth):	0.30334256694367495
+Test Patch N150
+	MSE(Result vs GroundTruth):	85.93045244690674
+	MSE(Input vs GroundTruth):	86.38079409048939
+Test Patch N151
+	MSE(Result vs GroundTruth):	63.00084949215143
+	MSE(Input vs GroundTruth):	20.069916897506925
+Test Patch N152
+	MSE(Result vs GroundTruth):	60.738762696214216
+	MSE(Input vs GroundTruth):	21.38489381348107
+Test Patch N153
+	MSE(Result vs GroundTruth):	85.38382271468144
+	MSE(Input vs GroundTruth):	82.0896029547553
+Test Patch N154
+	MSE(Result vs GroundTruth):	31.29529085872576
+	MSE(Input vs GroundTruth):	29.28299168975069
+Test Patch N155
+	MSE(Result vs GroundTruth):	77.29769159741458
+	MSE(Input vs GroundTruth):	35.579353647276086
+Test Patch N156
+	MSE(Result vs GroundTruth):	73.00206832871653
+	MSE(Input vs GroundTruth):	58.14943674976916
+Test Patch N157
+	MSE(Result vs GroundTruth):	60.80879039704524
+	MSE(Input vs GroundTruth):	54.074201292705446
+Test Patch N158
+	MSE(Result vs GroundTruth):	82.52062788550323
+	MSE(Input vs GroundTruth):	51.51216989843029
+Test Patch N159
+	MSE(Result vs GroundTruth):	104.47615881809787
+	MSE(Input vs GroundTruth):	42.58385964912281
+Test Patch N160
+	MSE(Result vs GroundTruth):	17.35021237303786
+	MSE(Input vs GroundTruth):	13.518042474607572
+Test Patch N161
+	MSE(Result vs GroundTruth):	80.33783933518005
+	MSE(Input vs GroundTruth):	68.04029547553094
+Test Patch N162
+	MSE(Result vs GroundTruth):	67.21396121883656
+	MSE(Input vs GroundTruth):	61.64446906740535
+Test Patch N163
+	MSE(Result vs GroundTruth):	73.4639704524469
+	MSE(Input vs GroundTruth):	73.66725761772854
+Test Patch N164
+	MSE(Result vs GroundTruth):	84.38371191135734
+	MSE(Input vs GroundTruth):	75.4952539242844
+Test Patch N165
+	MSE(Result vs GroundTruth):	41.52963988919667
+	MSE(Input vs GroundTruth):	25.840369344413666
+Test Patch N166
+	MSE(Result vs GroundTruth):	79.59774699907663
+	MSE(Input vs GroundTruth):	76.78286241920591
+Test Patch N167
+	MSE(Result vs GroundTruth):	59.92823638042475
+	MSE(Input vs GroundTruth):	45.87287165281625
+Test Patch N168
+	MSE(Result vs GroundTruth):	7.775512465373962
+	MSE(Input vs GroundTruth):	2.69606648199446
+Test Patch N169
+	MSE(Result vs GroundTruth):	89.29096952908587
+	MSE(Input vs GroundTruth):	58.22282548476454
+Test Patch N170
+	MSE(Result vs GroundTruth):	91.3987811634349
+	MSE(Input vs GroundTruth):	93.72073868882732
+Test Patch N171
+	MSE(Result vs GroundTruth):	91.06766389658357
+	MSE(Input vs GroundTruth):	65.44480147737765
+Test Patch N172
+	MSE(Result vs GroundTruth):	70.47564173591874
+	MSE(Input vs GroundTruth):	74.07940904893813
+Test Patch N173
+	MSE(Result vs GroundTruth):	75.62578024007387
+	MSE(Input vs GroundTruth):	49.15180055401662
+Test Patch N174
+	MSE(Result vs GroundTruth):	71.13178208679594
+	MSE(Input vs GroundTruth):	52.1731486611265
+Test Patch N175
+	MSE(Result vs GroundTruth):	86.85023084025855
+	MSE(Input vs GroundTruth):	66.05614035087719
+Test Patch N176
+	MSE(Result vs GroundTruth):	103.6387811634349
+	MSE(Input vs GroundTruth):	50.79763619575254
+Test Patch N177
+	MSE(Result vs GroundTruth):	78.03109879963066
+	MSE(Input vs GroundTruth):	69.04963988919667
+Test Patch N178
+	MSE(Result vs GroundTruth):	76.23253924284396
+	MSE(Input vs GroundTruth):	71.41883656509695
+Test Patch N179
+	MSE(Result vs GroundTruth):	80.84506001846722
+	MSE(Input vs GroundTruth):	58.84195752539243
+Test Patch N180
+	MSE(Result vs GroundTruth):	61.136879039704525
+	MSE(Input vs GroundTruth):	29.083176361957527
+Test Patch N181
+	MSE(Result vs GroundTruth):	32.23276084949215
+	MSE(Input vs GroundTruth):	18.840554016620498
+Test Patch N182
+	MSE(Result vs GroundTruth):	72.09994459833796
+	MSE(Input vs GroundTruth):	57.28904893813481
+Test Patch N183
+	MSE(Result vs GroundTruth):	67.9710433979686
+	MSE(Input vs GroundTruth):	68.15357340720222
+Test Patch N184
+	MSE(Result vs GroundTruth):	21.985743305632504
+	MSE(Input vs GroundTruth):	17.829806094182825
+Test Patch N185
+	MSE(Result vs GroundTruth):	94.76742382271468
+	MSE(Input vs GroundTruth):	5.7332594644506
+Test Patch N186
+	MSE(Result vs GroundTruth):	62.78385964912281
+	MSE(Input vs GroundTruth):	61.75586334256695
+Test Patch N187
+	MSE(Result vs GroundTruth):	90.50326869806094
+	MSE(Input vs GroundTruth):	90.33388734995383
+Test Patch N188
+	MSE(Result vs GroundTruth):	39.021606648199445
+	MSE(Input vs GroundTruth):	0.354533702677747
+Test Patch N189
+	MSE(Result vs GroundTruth):	65.17610341643582
+	MSE(Input vs GroundTruth):	62.392834718374885
+Test Patch N190
+	MSE(Result vs GroundTruth):	27.977543859649124
+	MSE(Input vs GroundTruth):	27.845133887349952
+Test Patch N191
+	MSE(Result vs GroundTruth):	77.77665743305633
+	MSE(Input vs GroundTruth):	78.03604801477378
+Test Patch N192
+	MSE(Result vs GroundTruth):	30.30212373037858
+	MSE(Input vs GroundTruth):	20.360923361034164
+Test Patch N193
+	MSE(Result vs GroundTruth):	71.4406648199446
+	MSE(Input vs GroundTruth):	70.7893998153278
+Test Patch N194
+	MSE(Result vs GroundTruth):	83.16805170821792
+	MSE(Input vs GroundTruth):	68.16524469067406
+Test Patch N195
+	MSE(Result vs GroundTruth):	122.46688827331486
+	MSE(Input vs GroundTruth):	0.4683656509695291
+Test Patch N196
+	MSE(Result vs GroundTruth):	56.55929824561404
+	MSE(Input vs GroundTruth):	47.51084025854109
+Test Patch N197
+	MSE(Result vs GroundTruth):	80.87926131117267
+	MSE(Input vs GroundTruth):	36.653074792243764
+Test Patch N198
+	MSE(Result vs GroundTruth):	75.41931671283471
+	MSE(Input vs GroundTruth):	10.58079409048938
+Test Patch N199
+	MSE(Result vs GroundTruth):	77.947405355494
+	MSE(Input vs GroundTruth):	75.15427516158817
+Test Patch N200
+	MSE(Result vs GroundTruth):	81.57096952908587
+	MSE(Input vs GroundTruth):	56.68831024930748
+Test Patch N201
+	MSE(Result vs GroundTruth):	74.64483841181902
+	MSE(Input vs GroundTruth):	72.2571375807941
+Test Patch N202
+	MSE(Result vs GroundTruth):	22.283065558633425
+	MSE(Input vs GroundTruth):	19.395974145891042
+Test Patch N203
+	MSE(Result vs GroundTruth):	40.71807940904894
+	MSE(Input vs GroundTruth):	2.884912280701754
+Test Patch N204
+	MSE(Result vs GroundTruth):	76.54910433979686
+	MSE(Input vs GroundTruth):	79.0910433979686
+Test Patch N205
+	MSE(Result vs GroundTruth):	83.5160110803324
+	MSE(Input vs GroundTruth):	76.32025854108957
+Test Patch N206
+	MSE(Result vs GroundTruth):	9.797599261311174
+	MSE(Input vs GroundTruth):	0.38120036934441365
+Test Patch N207
+	MSE(Result vs GroundTruth):	96.01218836565097
+	MSE(Input vs GroundTruth):	26.357340720221607
+Test Patch N208
+	MSE(Result vs GroundTruth):	80.22083102493075
+	MSE(Input vs GroundTruth):	71.48509695290859
+Test Patch N209
+	MSE(Result vs GroundTruth):	76.48997229916897
+	MSE(Input vs GroundTruth):	72.84746075715604
+Test Patch N210
+	MSE(Result vs GroundTruth):	71.26216066481994
+	MSE(Input vs GroundTruth):	74.58149584487535
+Test Patch N211
+	MSE(Result vs GroundTruth):	104.05673130193905
+	MSE(Input vs GroundTruth):	9.918965835641735
+Test Patch N212
+	MSE(Result vs GroundTruth):	63.59431209602955
+	MSE(Input vs GroundTruth):	24.652631578947368
+Test Patch N213
+	MSE(Result vs GroundTruth):	102.18814404432133
+	MSE(Input vs GroundTruth):	12.401366574330563
+Test Patch N214
+	MSE(Result vs GroundTruth):	54.910249307479226
+	MSE(Input vs GroundTruth):	57.28247460757156
+Test Patch N215
+	MSE(Result vs GroundTruth):	128.64192059095106
+	MSE(Input vs GroundTruth):	1.0899353647276084
+Test Patch N216
+	MSE(Result vs GroundTruth):	80.86112650046168
+	MSE(Input vs GroundTruth):	75.00284395198523
+Test Patch N217
+	MSE(Result vs GroundTruth):	103.97669436749769
+	MSE(Input vs GroundTruth):	35.46101569713758
+Test Patch N218
+	MSE(Result vs GroundTruth):	83.54330563250231
+	MSE(Input vs GroundTruth):	66.01824561403508
+Test Patch N219
+	MSE(Result vs GroundTruth):	14.165577100646352
+	MSE(Input vs GroundTruth):	9.741200369344414
+Test Patch N220
+	MSE(Result vs GroundTruth):	63.345632502308405
+	MSE(Input vs GroundTruth):	54.440997229916896
+Test Patch N221
+	MSE(Result vs GroundTruth):	46.33418282548477
+	MSE(Input vs GroundTruth):	14.824561403508772
+Test Patch N222
+	MSE(Result vs GroundTruth):	88.43734072022161
+	MSE(Input vs GroundTruth):	82.29274238227147
+Test Patch N223
+	MSE(Result vs GroundTruth):	105.03220683287165
+	MSE(Input vs GroundTruth):	5.7404616805170825
+Test Patch N224
+	MSE(Result vs GroundTruth):	88.07771006463527
+	MSE(Input vs GroundTruth):	59.04280701754386
+Test Patch N225
+	MSE(Result vs GroundTruth):	49.482289935364726
+	MSE(Input vs GroundTruth):	3.380904893813481
+Test Patch N226
+	MSE(Result vs GroundTruth):	73.04469067405356
+	MSE(Input vs GroundTruth):	4.351763619575254
+Test Patch N227
+	MSE(Result vs GroundTruth):	66.93045244690674
+	MSE(Input vs GroundTruth):	33.02766389658356
+Test Patch N228
+	MSE(Result vs GroundTruth):	59.02326869806094
+	MSE(Input vs GroundTruth):	33.53595567867036
+Test Patch N229
+	MSE(Result vs GroundTruth):	49.86478301015697
+	MSE(Input vs GroundTruth):	27.392945521698984
+Test Patch N230
+	MSE(Result vs GroundTruth):	32.58559556786704
+	MSE(Input vs GroundTruth):	22.566131117266853
+Test Patch N231
+	MSE(Result vs GroundTruth):	97.61983379501385
+	MSE(Input vs GroundTruth):	30.95253924284395
+Test Patch N232
+	MSE(Result vs GroundTruth):	42.9471837488458
+	MSE(Input vs GroundTruth):	39.2796675900277
+Test Patch N233
+	MSE(Result vs GroundTruth):	29.66212373037858
+	MSE(Input vs GroundTruth):	29.916158818097877
+Test Patch N234
+	MSE(Result vs GroundTruth):	84.01008310249307
+	MSE(Input vs GroundTruth):	16.033130193905816
+Test Patch N235
+	MSE(Result vs GroundTruth):	63.481883656509694
+	MSE(Input vs GroundTruth):	59.676528162511545
+Test Patch N236
+	MSE(Result vs GroundTruth):	20.842954755309325
+	MSE(Input vs GroundTruth):	13.043915050784857
+Test Patch N237
+	MSE(Result vs GroundTruth):	78.08391505078485
+	MSE(Input vs GroundTruth):	64.00557710064635
+Test Patch N238
+	MSE(Result vs GroundTruth):	71.94238227146815
+	MSE(Input vs GroundTruth):	55.56365650969529
+Test Patch N239
+	MSE(Result vs GroundTruth):	51.3995567867036
+	MSE(Input vs GroundTruth):	38.95996306555863
+Test Patch N240
+	MSE(Result vs GroundTruth):	87.69628808864266
+	MSE(Input vs GroundTruth):	85.11331486611265
+Test Patch N241
+	MSE(Result vs GroundTruth):	49.110101569713756
+	MSE(Input vs GroundTruth):	3.374145891043398
+Test Patch N242
+	MSE(Result vs GroundTruth):	28.29909510618652
+	MSE(Input vs GroundTruth):	26.326759002770082
+Test Patch N243
+	MSE(Result vs GroundTruth):	22.119482917820868
+	MSE(Input vs GroundTruth):	16.536952908587256
+Test Patch N244
+	MSE(Result vs GroundTruth):	16.49702677746999
+	MSE(Input vs GroundTruth):	2.906481994459834
+Test Patch N245
+	MSE(Result vs GroundTruth):	49.040701754385964
+	MSE(Input vs GroundTruth):	4.955678670360111
+Test Patch N246
+	MSE(Result vs GroundTruth):	85.73765466297323
+	MSE(Input vs GroundTruth):	23.026666666666667
+Test Patch N247
+	MSE(Result vs GroundTruth):	79.68657433056325
+	MSE(Input vs GroundTruth):	0.6729824561403509
+Test Patch N248
+	MSE(Result vs GroundTruth):	72.08240073868883
+	MSE(Input vs GroundTruth):	72.7346999076639
+Test Patch N249
+	MSE(Result vs GroundTruth):	78.29787626962143
+	MSE(Input vs GroundTruth):	63.14068328716528
+Test Patch N250
+	MSE(Result vs GroundTruth):	76.56819944598338
+	MSE(Input vs GroundTruth):	52.23693444136657
+Test Patch N251
+	MSE(Result vs GroundTruth):	71.90315789473684
+	MSE(Input vs GroundTruth):	59.29647276084949
+Test Patch N252
+	MSE(Result vs GroundTruth):	53.19896583564174
+	MSE(Input vs GroundTruth):	18.58168051708218
+Test Patch N253
+	MSE(Result vs GroundTruth):	63.51608494921514
+	MSE(Input vs GroundTruth):	0.3512465373961219
+Test Patch N254
+	MSE(Result vs GroundTruth):	70.80214219759927
+	MSE(Input vs GroundTruth):	70.95678670360111
+Test Patch N255
+	MSE(Result vs GroundTruth):	66.58899353647276
+	MSE(Input vs GroundTruth):	66.72073868882732
+Test Patch N256
+	MSE(Result vs GroundTruth):	76.9089566020314
+	MSE(Input vs GroundTruth):	77.15741458910433
+Test Patch N257
+	MSE(Result vs GroundTruth):	59.58153277931671
+	MSE(Input vs GroundTruth):	46.52731301939058
+Test Patch N258
+	MSE(Result vs GroundTruth):	81.43638042474608
+	MSE(Input vs GroundTruth):	58.59915050784857
+Test Patch N259
+	MSE(Result vs GroundTruth):	43.23250230840259
+	MSE(Input vs GroundTruth):	18.20945521698984
+Test Patch N260
+	MSE(Result vs GroundTruth):	82.61942751615882
+	MSE(Input vs GroundTruth):	82.34308402585411
+Test Patch N261
+	MSE(Result vs GroundTruth):	17.104118190212372
+	MSE(Input vs GroundTruth):	16.77843028624192
+Test Patch N262
+	MSE(Result vs GroundTruth):	39.57466297322253
+	MSE(Input vs GroundTruth):	38.09174515235457
+Test Patch N263
+	MSE(Result vs GroundTruth):	70.5036380424746
+	MSE(Input vs GroundTruth):	51.76332409972299
+Test Patch N264
+	MSE(Result vs GroundTruth):	82.4897137580794
+	MSE(Input vs GroundTruth):	80.95926131117267
+Test Patch N265
+	MSE(Result vs GroundTruth):	70.36631578947369
+	MSE(Input vs GroundTruth):	39.655180055401665
+Test Patch N266
+	MSE(Result vs GroundTruth):	64.8021052631579
+	MSE(Input vs GroundTruth):	52.782456140350874
+Test Patch N267
+	MSE(Result vs GroundTruth):	59.44225300092336
+	MSE(Input vs GroundTruth):	59.19553093259464
+Test Patch N268
+	MSE(Result vs GroundTruth):	27.500535549399814
+	MSE(Input vs GroundTruth):	25.83892890120037
+Test Patch N269
+	MSE(Result vs GroundTruth):	86.65222530009234
+	MSE(Input vs GroundTruth):	88.03660203139428
+Test Patch N270
+	MSE(Result vs GroundTruth):	88.18422899353648
+	MSE(Input vs GroundTruth):	82.25595567867036
+Test Patch N271
+	MSE(Result vs GroundTruth):	75.15501385041551
+	MSE(Input vs GroundTruth):	71.6144783010157
+Test Patch N272
+	MSE(Result vs GroundTruth):	81.03730378578024
+	MSE(Input vs GroundTruth):	0.5467036011080333
+Test Patch N273
+	MSE(Result vs GroundTruth):	88.72845798707294
+	MSE(Input vs GroundTruth):	27.370637119113574
+Test Patch N274
+	MSE(Result vs GroundTruth):	62.9460757156048
+	MSE(Input vs GroundTruth):	13.12291782086796
+Test Patch N275
+	MSE(Result vs GroundTruth):	30.164173591874423
+	MSE(Input vs GroundTruth):	27.033130193905816
+Test Patch N276
+	MSE(Result vs GroundTruth):	52.92092336103416
+	MSE(Input vs GroundTruth):	8.83730378578024
+Test Patch N277
+	MSE(Result vs GroundTruth):	34.266223453370266
+	MSE(Input vs GroundTruth):	15.660129270544783
+Test Patch N278
+	MSE(Result vs GroundTruth):	74.73458910433979
+	MSE(Input vs GroundTruth):	56.07368421052632
+Test Patch N279
+	MSE(Result vs GroundTruth):	62.68775623268698
+	MSE(Input vs GroundTruth):	33.88277008310249
+Test Patch N280
+	MSE(Result vs GroundTruth):	54.159002770083106
+	MSE(Input vs GroundTruth):	43.68805170821791
+Test Patch N281
+	MSE(Result vs GroundTruth):	44.88280701754386
+	MSE(Input vs GroundTruth):	4.691301939058172
+Test Patch N282
+	MSE(Result vs GroundTruth):	37.363915050784854
+	MSE(Input vs GroundTruth):	35.514127423822714
+Test Patch N283
+	MSE(Result vs GroundTruth):	41.39442289935365
+	MSE(Input vs GroundTruth):	42.94747922437673
+Test Patch N284
+	MSE(Result vs GroundTruth):	69.4031024930748
+	MSE(Input vs GroundTruth):	47.307442289935366
+Test Patch N285
+	MSE(Result vs GroundTruth):	107.70622345337027
+	MSE(Input vs GroundTruth):	0.8850969529085873
+Test Patch N286
+	MSE(Result vs GroundTruth):	72.00602031394276
+	MSE(Input vs GroundTruth):	39.570415512465374
+Test Patch N287
+	MSE(Result vs GroundTruth):	9.810156971375807
+	MSE(Input vs GroundTruth):	7.918005540166205
+Test Patch N288
+	MSE(Result vs GroundTruth):	117.53477377654663
+	MSE(Input vs GroundTruth):	0.7408310249307479
+Test Patch N289
+	MSE(Result vs GroundTruth):	80.46182825484765
+	MSE(Input vs GroundTruth):	74.59730378578024
+Test Patch N290
+	MSE(Result vs GroundTruth):	79.13920590951062
+	MSE(Input vs GroundTruth):	75.08158818097877
+Test Patch N291
+	MSE(Result vs GroundTruth):	46.69905817174515
+	MSE(Input vs GroundTruth):	15.112723915050784
+Test Patch N292
+	MSE(Result vs GroundTruth):	40.468107109879966
+	MSE(Input vs GroundTruth):	15.968679593721145
+Test Patch N293
+	MSE(Result vs GroundTruth):	65.6264081255771
+	MSE(Input vs GroundTruth):	65.16461680517082
+Test Patch N294
+	MSE(Result vs GroundTruth):	42.037008310249306
+	MSE(Input vs GroundTruth):	36.22648199445983
+Test Patch N295
+	MSE(Result vs GroundTruth):	82.49300092336104
+	MSE(Input vs GroundTruth):	70.86367497691597
+Test Patch N296
+	MSE(Result vs GroundTruth):	64.31346260387812
+	MSE(Input vs GroundTruth):	9.538836565096952
+Test Patch N297
+	MSE(Result vs GroundTruth):	66.62965835641737
+	MSE(Input vs GroundTruth):	33.67420129270545
+Test Patch N298
+	MSE(Result vs GroundTruth):	120.15464450600184
+	MSE(Input vs GroundTruth):	6.21606648199446
+Test Patch N299
+	MSE(Result vs GroundTruth):	44.92517082179132
+	MSE(Input vs GroundTruth):	45.80561403508772
+
+Total Average Results (MSE):
+	Average MSE(Result vs GroundTruth):	1.8977617258065622
+	Average MSE(Input vs GroundTruth):	1.8663770403045559
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
