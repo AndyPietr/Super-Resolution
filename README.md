@@ -1,21 +1,5 @@
 # Single Image Super-Resolution (SISR) 
 
-```
-Deep Learning Course Project - Vrije Universiteit Brussel (VUB)
-Students: 
-- Esteban Velásquez Rendón
-- Andrzej Krzysztof Pietrusiak
-- Amna Jouini
-Professor: 
-- Nikos Deligiannis
-Program: 
-- Msc. Applied Computer Science
-
-Academic Year: 2022
-```
-
-Note: The present repository contains the code developed for the project. An explanation of the implemented approach is described below in this README file.
-
 ![Architecture](images/Architecture.png "Model Architecture")
 
 ## Summary
